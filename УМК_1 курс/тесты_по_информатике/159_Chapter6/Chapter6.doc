@@ -1,0 +1,1745 @@
+{\rtf1\ansi\ansicpg1251\uc1 \deff0\deflang1033\deflangfe1049{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}{\f5\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica;}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier;}{\f7\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Geneva;}{\f8\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Tms Rmn;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helv;}{\f10\froman\fcharset0\fprq2{\*\panose 00000000000000000000}MS Serif;}{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f12\froman\fcharset0\fprq2{\*\panose 00000000000000000000}New York;}{\f13\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f16\froman\fcharset0\fprq2{\*\panose 00000000000000000000}CaflischScript Regular;}{\f17\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}SchoolBookC;}{\f18\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}PragmaticaC;}{\f19\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}CourierC;}{\f20\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f21\froman\fcharset204\fprq2{\*\panose 00000000000000000000}Times New Roman Baltic;}{\f22\froman\fcharset0\fprq2{\*\panose 00000000000000000000}AGaramond;}{\f23\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}{\f24\fswiss\fcharset0\fprq2{\*\panose 020b0402020202020204}AvantGarde Bk BT;}{\f25\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_375 RG;}{\f26\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM;}{\f27\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AcademyC;}{\f28\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AdverGothicC;}{\f29\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AdverGothicCamC;}{\f30\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AvantGardeC;}{\f31\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Charlemagne;}{\f32\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}CompactC;}{\f33\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Cottonwood;}{\f34\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Critter;}{\f35\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Dixieland;}{\f36\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}Electron;}{\f37\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}ExPonto Regular;}{\f38\froman\fcharset0\fprq2{\*\panose 00000000000000000000}FreeSet;}{\f39\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FreeSetBlackC;}{\f40\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FreeSetC;}{\f41\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturaEugeniaC;}{\f42\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisC;}{\f43\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisShadowC;}{\f44\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisVolumeC;}{\f45\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisXC;}{\f46\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisXCondC;}{\f47\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond BookCondensed;}{\f48\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond LightCondensed;}{\f49\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}GaramondC;}{\f50\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Modern;}{\f51\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}InformC;}{\f52\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}IzhitsaC;}{\f53\froman\fcharset0\fprq2{\*\panose 00000000000000000000}JakobXC;}{\f54\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}JournalC;}{\f55\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}JournalSansC;}{\f56\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}KabelC Book;}{\f57\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}KabelC Ultra;}{\f58\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Lithos Regular;}{\f59\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_275 LT;}{\f60\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_485 SB;}{\f61\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_585 BD;}{\f62\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_725 BL;}{\f63\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Minion Condensed;}{\f64\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Minion Ornaments;}{\f65\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}MonoCondensedC;}{\f66\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Myriad Roman;}{\f67\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Myriad Tilt;}{\f68\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}NewtonC;}{\f69\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}NewtonXC;}{\f70\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Nueva BoldExtended;}{\f71\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Nueva Roman;}{\f72\froman\fcharset0\fprq2{\*\panose 00000000000000000000}NuptialScript;}{\f73\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}ParsekC;}{\f74\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}PetersburgC;}{\f75\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Poetica ChanceryI;}{\f76\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}PragmaticaCondC;}{\f77\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}QuantAntiquaC;}{\f78\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Sanvito Light;}{\f79\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Sanvito Roman;}{\f80\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Roman;}{\f81\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Utopia;}{\f82\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}VAG Rounded Lt;}{\f83\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}VAG Rounded Th;}{\f84\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Viva BoldExtraExtended;}{\f85\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Viva Regular;}{\f86\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Willow;}{\f87\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Woodtype Ornaments 1;}{\f88\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisXCameoC;}{\f89\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}{\f90\fswiss\fcharset0\fprq2{\*\panose 020b0504020203020204}News Gothic MT;}{\f91\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Lucida Handwriting;}{\f92\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Lucida Sans;}{\f93\fswiss\fcharset0\fprq2{\*\panose 020b0602030504020204}Lucida Sans Unicode;}{\f94\froman\fcharset0\fprq2{\*\panose 02040602050305030304}Book Antiqua;}{\f95\fswiss\fcharset0\fprq2{\*\panose 020b0502020202020204}Century Gothic;}{\f96\fmodern\fcharset0\fprq1{\*\panose 02010509020102010303}OCR A Extended;}{\f97\froman\fcharset0\fprq2{\*\panose 02040603050505030304}Calisto MT;}{\f98\fswiss\fcharset0\fprq2{\*\panose 020b0306030101010103}Abadi MT Condensed Light;}{\f99\fswiss\fcharset0\fprq2{\*\panose 020e0705020206020404}Copperplate Gothic Bold;}{\f100\fswiss\fcharset0\fprq2{\*\panose 020e0507020206020404}Copperplate Gothic Light;}{\f101\fdecor\fcharset0\fprq2{\*\panose 04040403030d02020704}Matisse ITC;}{\f102\fdecor\fcharset0\fprq2{\*\panose 04020404030d07020202}Tempus Sans ITC;}{\f103\fdecor\fcharset0\fprq2{\*\panose 04040506030f02020702}Westminster;}{\f104\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console;}{\f105\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f106\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}{\f107\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f108\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f109\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}{\f110\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Japanese Generic1;}{\f111\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MusicalSymbols;}{\f112\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Clocks;}{\f113\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}HomePlanning2;}{\f114\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Borders1;}{\f115\froman\fcharset2\fprq2{\*\panose 05050102010607020607}SymbolProp BT;}{\f116\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Tools;}{\f117\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Signs;}{\f118\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets 5(Korean);}{\f119\froman\fcharset2\fprq2{\*\panose 05020102010704020609}ZapfDingbats BT;}{\f120\fmodern\fcharset2\fprq1{\*\panose 020f0509020204020304}OCR-A BT;}{\f121\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Sports&Hobbies;}{\f122\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Shapes1;}{\f123\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Festive;}{\f124\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}HomePlanning;}{\f125\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}MilitaryID;}{\f126\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}CommonBullets;}{\f127\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Technology;}{\f128\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Balloons;}{\f129\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Sign Language;}{\f130\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Hygiene;}{\f131\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Animals 1;}{\f132\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Weather;}{\f133\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Kidnap;}{\f134\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Awards;}{\f135\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Space;}{\f136\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Arrows2;}{\f137\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Arrows1;}{\f138\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets3;}{\f139\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Medicine;}{\f140\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Computers;}{\f141\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Music;}{\f142\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}NauticalFlags;}{\f143\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets1;}{\f144\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Household;}{\f145\fmodern\fcharset2\fprq1{\*\panose 020b0609020202020204}OCR-B-10 BT;}{\f146\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Semaphore;}{\f147\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Stars2;}{\f148\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Charting;}{\f149\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets2;}{\f150\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Korean Generic1;}{\f151\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Furniture;}{\f152\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Shapes2;}{\f153\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Science;}{\f154\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Tracks;}{\f155\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}LandscapePlanning;}{\f156\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets 4(Japanese);}{\f157\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Landmarks;}{\f158\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Transportation;}{\f159\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Food;}{\f160\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Animals 2;}{\f161\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Borders2;}{\f162\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Electronics;}{\f163\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Plants;}{\f164\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Stars1;}{\f165\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Buildings;}{\f166\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}OfficePlanning;}{\f167\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Business&Government;}{\f168\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}GeographicSymbols;}{\f169\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MorseCode;}{\f170\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}SportsFigures;}{\f171\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Chinese Generic1;}{\f172\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Boxes;}{\f173\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}People;}{\f174\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Military;}{\f175\froman\fcharset2\fprq2{\*\panose 05050102010205020202}MT Extra;}{\f176\fswiss\fcharset0\fprq2{\*\panose 020b0706040902060204}Haettenschweiler;}{\f177\fswiss\fcharset0\fprq2{\*\panose 020b0506020202030204}Arial Narrow;}{\f178\fswiss\fcharset0\fprq2{\*\panose 020f0704030504030204}Arial Rounded MT Bold;}{\f179\froman\fcharset0\fprq2{\*\panose 02040604050505020304}Century Schoolbook;}{\f180\fdecor\fcharset0\fprq2{\*\panose 04020705040a02060702}Algerian;}{\f181\fdecor\fcharset0\fprq2{\*\panose 04030b070d0b02020403}Braggadocio;}{\f182\fswiss\fcharset0\fprq2{\*\panose 020b0903060703020204}Britannic Bold;}{\f183\fscript\fcharset0\fprq2{\*\panose 03060802040406070304}Brush Script MT;}{\f184\fdecor\fcharset0\fprq2{\*\panose 04020805060202030203}Colonna MT;}{\f185\fdecor\fcharset0\fprq2{\*\panose 04020505020e03040504}Desdemona;}{\f186\froman\fcharset0\fprq2{\*\panose 0204060206030a020304}Footlight MT Light;}{\f187\fdecor\fcharset0\fprq2{\*\panose 040307050d0c02020703}Kino MT;}{\f188\froman\fcharset0\fprq2{\*\panose 020a0a07050505020404}Wide Latin;}{\f189\fscript\fcharset0\fprq2{\*\panose 03020802060602070202}Matura MT Script Capitals;}{\f190\fdecor\fcharset0\fprq2{\*\panose 040506030a0602020202}Playbill;}{\f191\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}AdverGothic;}{\f192\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Antiqua;}{\f193\fswiss\fcharset0\fprq2{\*\panose 020d0506020203030b03}Architecture;}{\f194\fswiss\fcharset0\fprq2{\*\panose 020b0602020202020204}AvantGarde Md BT;}{\f195\froman\fcharset0\fprq2{\*\panose 02030604050306020704}Benguiat Bk BT;}{\f196\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Bodoni;}{\f197\fdecor\fcharset0\fprq2{\*\panose 04040807060d02020704}Bremen Bd BT;}{\f198\fdecor\fcharset0\fprq2{\*\panose 04040905080b02020502}Broadway BT;}{\f199\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}BrushType;}{\f200\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Bruskovaya Compressed;}{\f201\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}Bruskovaya;}{\f202\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Bukvarnaya;}{\f203\fdecor\fcharset0\fprq2{\*\panose 04030405020b02020c04}Busorama Md BT;}{\f204\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}CasablancaAntique;}{\f205\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Caslon;}{\f206\fscript\fcharset0\fprq2{\*\panose 03030803040807090c04}CommercialScript BT;}{\f207\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Compact;}{\f208\fswiss\fcharset0\fprq2{\*\panose 020b0608030702060204}Compacta BT;}{\f209\fswiss\fcharset0\fprq2{\*\panose 020e0705020203020404}CopprplGoth Bd BT;}{\f210\froman\fcharset0\fprq2{\*\panose 0204050203030b020204}Dauphin;}{\f211\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Decor;}{\f212\fdecor\fcharset0\fprq2{\*\panose 04020a07050402060204}Decorated035 BT;}{\f213\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Encyclopaedia;}{\f214\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Fences;}{\f215\fswiss\fcharset0\fprq2{\*\panose 020b0706020204020204}Futura BdCn BT;}{\f216\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Futura Condensed;}{\f217\fswiss\fcharset0\fprq2{\*\panose 020b0903020204020204}Futura XBlk BT;}{\f218\fswiss\fcharset0\fprq2{\*\panose 020b0806020204020204}Futura XBlkCn BT;}{\f219\fswiss\fcharset0\fprq2{\*\panose 020b0806020204090204}Futura XBlkCnIt BT;}{\f220\fswiss\fcharset0\fprq2{\*\panose 020b0903020204090204}Futura XBlkIt BT;}{\f221\fswiss\fcharset0\fprq2{\*\panose 020b0702020204020204}Futura Hv BT;}{\f222\fswiss\fcharset0\fprq2{\*\panose 020b0402020204020303}Futura Lt BT;}{\f223\fswiss\fcharset0\fprq2{\*\panose 020b0408020204030204}Futura LtCn BT;}{\f224\fswiss\fcharset0\fprq2{\*\panose 020b0602020204020303}Futura Md BT;}{\f225\fswiss\fcharset0\fprq2{\*\panose 020b0506020204030203}Futura MdCn BT;}{\f226\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}FuturaLight;}{\f227\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}FuturaPress;}{\f228\froman\fcharset0\fprq2{\*\panose 0202060206050b020a04}Galliard BT;}{\f229\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Gazeta SansSerif;}{\f230\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Gazeta Titul;}{\f231\fswiss\fcharset0\fprq2{\*\panose 020d0402020204020903}Geometr231 BT;}{\f232\fswiss\fcharset0\fprq2{\*\panose 020d0802020204020204}Geometr231 Hv BT;}{\f233\fswiss\fcharset0\fprq2{\*\panose 020d0302020203020903}Geometr231 Lt BT;}{\f234\fdecor\fcharset0\fprq2{\*\panose 04020604050203030203}GoudyHandtooled BT;}{\f235\froman\fcharset0\fprq2{\*\panose 02020502050305020303}GoudyOlSt BT;}{\f236\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}GreekMathSymbols;}{\f237\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}GymnasiaCompressed;}{\f238\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Jikharev;}{\f239\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}Kladez;}{\f240\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Kudriashov;}{\f241\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Lazurski;}{\f242\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Arrows;}{\f243\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Bright Math Extension;}{\f244\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Bright Math Italic;}{\f245\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Bright Math Symbol;}{\f246\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Icons;}{\f247\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Stars;}{\f248\froman\fcharset0\fprq2{\*\panose 00050102010706020507}Map Symbols;}{\f249\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}MonoCondensed;}{\f250\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Mysl Narrow;}{\f251\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTCourierVK;}{\f252\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTHarmonica;}{\f253\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTHelvetica/Cyrillic;}{\f254\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTTimes/Cyrillic;}{\f255\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Olga;}{\f256\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Optima;}{\f257\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Parsek;}{\f258\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Pasma;}{\f259\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Peterburg;}{\f260\froman\fcharset0\fprq2{\*\panose 02070a02080905020204}PosterBodoni BT;}{\f261\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Pragmatica;}{\f262\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Quant Antiqua;}{\f263\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Respect;}{\f264\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Respect Narrow;}{\f265\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}SchoolBook;}{\f266\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}SchoolBook Quote;}{\f267\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}SchoolBookN;}{\f268\froman\fcharset0\fprq2{\*\panose 02080503040505020303}Souvenir Lt BT;}{\f269\fswiss\fcharset0\fprq2{\*\panose 020b0303020202020204}Swis721 Th BT;}{\f270\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Technical;}{\f271\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TextBook;}{\f272\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TimesET Quote;}{\f273\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TimesET;}{\f274\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Torhok;}{\f275\fscript\fcharset0\fprq2{\*\panose 03020702030807050705}TypoUpright BT;}{\f276\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Bold;}{\f277\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Light;}{\f278\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Medium;}{\f279\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Thin;}{\f280\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP Arabic Sihafa;}{\f281\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP ArabicScript Sihafa;}{\f282\fmodern\fcharset0\fprq1{\*\panose 010b0409020201010101}WP BoxDrawing;}{\f283\froman\fcharset2\fprq2{\*\panose 05020604050505020304}WP CyrillicA;}{\f284\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}WP CyrillicB;}{\f285\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP Greek Century;}{\f286\fmodern\fcharset2\fprq1{\*\panose 00000009000000000000}WP Greek Courier;}{\f287\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP Greek Helve;}{\f288\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}WP Hebrew David;}{\f289\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP IconicSymbolsA;}{\f290\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP IconicSymbolsB;}{\f291\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP Japanese;}{\f292\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathA;}{\f293\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathB;}{\f294\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathExtendedA;}{\f295\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathExtendedB;}{\f296\fmodern\fcharset2\fprq1{\*\panose 05000009000000000000}WP MultinationalA Courier;}{\f297\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalA Helve;}{\f298\froman\fcharset2\fprq2{\*\panose 02020604050505020304}WP MultinationalA Roman;}{\f299\fmodern\fcharset2\fprq1{\*\panose 02060409020205020404}WP MultinationalB Courier;}{\f300\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalB Helve;}{\f301\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalB Roman;}{\f302\fswiss\fcharset2\fprq2{\*\panose 050b0604020202030204}WP Phonetic;}{\f303\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP TypographicSymbols;}{\f304\fswiss\fcharset0\fprq2{\*\panose 020b0706030502040204}Zurich Cn BT;}{\f305\fswiss\fcharset0\fprq2{\*\panose 020b0505020202020204}Zurich Ex BT;}{\f306\fswiss\fcharset0\fprq2{\*\panose 020b0508030702060204}Zurich XCn BT;}{\f307\fswiss\fcharset0\fprq2{\*\panose 020b0403020202030204}Zurich Lt BT;}{\f308\fswiss\fcharset0\fprq2{\*\panose 020b0406020202040204}Zurich LtCn BT;}{\f309\fswiss\fcharset0\fprq2{\*\panose 020b0907040502030204}Zurich UBlkEx BT;}{\f310\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}HelvDL;}{\f311\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}FuturisCameoC;}{\f312\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garudard MT;}{\f313\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}Adolescence;}{\f314\fswiss\fcharset0\fprq2{\*\panose 020b0803020204040204}AntigoniBd;}{\f315\fswiss\fcharset0\fprq2{\*\panose 020b0603020204030204}Antigoni;}{\f316\fswiss\fcharset0\fprq2{\*\panose 020e0806020206070204}MGI Archon;}{\f317\fswiss\fcharset0\fprq2{\*\panose 020d0602050304030204}AucoinLight;}{\f318\fswiss\fcharset0\fprq2{\*\panose 020b0804040403020303}Banjoman Open Bold;}{\f319\fswiss\fcharset0\fprq2{\*\panose 02020603080106020303}Bedini;}{\f320\froman\fcharset0\fprq2{\*\panose 02090400040001020404}Curlz MT;}{\f321\fswiss\fcharset0\fprq2{\*\panose 020b0900020202060204}Eurostar Black Extended;}{\f322\fswiss\fcharset0\fprq2{\*\panose 020e0602060706020304}Gourmand;}{\f323\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Mistral AV;}{\f324\froman\fcharset0\fprq2{\*\panose 01010502050101030304}Palladius;}{\f325\froman\fcharset0\fprq2{\*\panose 02040502050405020303}Georgia;}{\f326\fswiss\fcharset0\fprq2{\*\panose 020b0603020202020204}Trebuchet MS;}{\f327\fswiss\fcharset0\fprq2{\*\panose 020b0406020204020204}Antigoni Light;}{\f328\fswiss\fcharset0\fprq2{\*\panose 020b0703020204030204}Antigoni Med;}{\f329\fswiss\fcharset0\fprq2{\*\panose 020d0802060808030204}AucoinExtBol;}{\f330\fnil\fcharset0\fprq2{\*\panose 02000503000000000004}Bermuda Solid;}{\f331\fdecor\fcharset0\fprq2{\*\panose 04010502060101010303}Creepy;}{\f332\fswiss\fcharset0\fprq2{\*\panose 020c0804040000000001}EraserDust;}{\f333\fswiss\fcharset0\fprq2{\*\panose 020b0504020202050204}Eurostar;}{\f334\fswiss\fcharset0\fprq2{\*\panose 020b0507020202060204}Eurostar Regular Extended;}{\f335\fnil\fcharset0\fprq2{\*\panose 02000507000000000004}Falstaff Festival MT;}{\f336\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}Figaro MT;}{\f337\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}KidTYPEPaint;}{\f338\fswiss\fcharset0\fprq2{\*\panose 020b0704030103070804}Metro Nouveau;}{\f339\fnil\fcharset0\fprq2{\*\panose 02000504000000000003}Orbus Multiserif;}{\f340\fnil\fcharset0\fprq2{\*\panose 02000306050000000002}Palace Script MT Semi Bold;}{\f341\fswiss\fcharset0\fprq2{\*\panose 020e0702050806020304}Peinaud;}{\f342\fswiss\fcharset0\fprq2{\*\panose 020b0904020202020204}Plump MT;}{\f343\fswiss\fcharset0\fprq2{\*\panose 020e0302020206020904}Schindler;}{\f344\fswiss\fcharset0\fprq2{\*\panose 020e0402020206020904}Schindler Small Caps;}{\f345\fmodern\fcharset0\fprq1{\*\panose 02000509000000000005}Space Toaster;}{\f346\fnil\fcharset0\fprq2{\*\panose 02000800000000000004}Team MT;}{\f347\fnil\fcharset0\fprq2{\*\panose 02000702030000020004}Twentieth Century Poster1;}{\f348\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Wendy Medium;}{\f349\fscript\fcharset0\fprq2{\*\panose 03020602050506090804}Vianta;}{\f350\fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial Cyr;}{\f351\fmodern\fcharset204\fprq1{\*\panose 02070309020205020404}Courier New Cyr;}{\f352\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}labazsym;}{\f353\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MS Outlook;}{\f354\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}AGHelveticaCyr;}{\f355\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times NR Cyr MT;}{\f356\fnil\fcharset2\fprq2{\*\panose 01010601010101010101}Monotype Sorts;}{\f357\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}AvantGarde;}{\f358\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Bookman;}{\f359\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica-Narrow;}{\f360\froman\fcharset0\fprq2{\*\panose 00000000000000000000}NewCenturySchlbk;}{\f361\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Palatino;}{\f362\froman\fcharset0\fprq2{\*\panose 00000000000000000000}ZapfChancery;}{\f363\fdecor\fcharset2\fprq2{\*\panose 00000000000000000000}ZapfDingbats;}{\f364\froman\fcharset238\fprq2 Times New Roman CE;}{\f365\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f367\froman\fcharset161\fprq2 Times New Roman Greek;}{\f368\froman\fcharset162\fprq2 Times New Roman Tur;}{\f369\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f370\fswiss\fcharset238\fprq2 Arial CE;}{\f371\fswiss\fcharset204\fprq2 Arial Cyr;}{\f373\fswiss\fcharset161\fprq2 Arial Greek;}{\f374\fswiss\fcharset162\fprq2 Arial Tur;}{\f375\fswiss\fcharset186\fprq2 Arial Baltic;}{\f376\fmodern\fcharset238\fprq1 Courier New CE;}{\f377\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f379\fmodern\fcharset161\fprq1 Courier New Greek;}{\f380\fmodern\fcharset162\fprq1 Courier New Tur;}{\f381\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f454\fswiss\fcharset238\fprq2 Tahoma CE;}{\f455\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f457\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f458\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f459\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f484\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f485\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f487\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f488\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f489\froman\fcharset186\fprq2 Bookman Old Style Baltic;}{\f502\froman\fcharset238\fprq2 Garamond CE;}{\f503\froman\fcharset204\fprq2 Garamond Cyr;}{\f505\froman\fcharset161\fprq2 Garamond Greek;}{\f506\froman\fcharset162\fprq2 Garamond Tur;}{\f507\froman\fcharset186\fprq2 Garamond Baltic;}{\f512\fswiss\fcharset162\fprq2 AvantGarde Bk BT Tur;}{\f922\fswiss\fcharset238\fprq2 Lucida Sans Unicode CE;}{\f923\fswiss\fcharset204\fprq2 Lucida Sans Unicode Cyr;}{\f925\fswiss\fcharset161\fprq2 Lucida Sans Unicode Greek;}{\f926\fswiss\fcharset162\fprq2 Lucida Sans Unicode Tur;}{\f988\fmodern\fcharset238\fprq1 Lucida Console CE;}{\f989\fmodern\fcharset204\fprq1 Lucida Console Cyr;}{\f991\fmodern\fcharset161\fprq1 Lucida Console Greek;}{\f992\fmodern\fcharset162\fprq1 Lucida Console Tur;}{\f994\fswiss\fcharset238\fprq2 Arial Black CE;}{\f995\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f997\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f998\fswiss\fcharset162\fprq2 Arial Black Tur;}{\f999\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f1000\fscript\fcharset238\fprq2 Comic Sans MS CE;}{\f1001\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f1003\fscript\fcharset161\fprq2 Comic Sans MS Greek;}{\f1004\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f1005\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}{\f1006\fswiss\fcharset238\fprq2 Impact CE;}{\f1007\fswiss\fcharset204\fprq2 Impact Cyr;}{\f1009\fswiss\fcharset161\fprq2 Impact Greek;}{\f1010\fswiss\fcharset162\fprq2 Impact Tur;}{\f1011\fswiss\fcharset186\fprq2 Impact Baltic;}{\f1012\fswiss\fcharset238\fprq2 Verdana CE;}{\f1013\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f1015\fswiss\fcharset161\fprq2 Verdana Greek;}{\f1016\fswiss\fcharset162\fprq2 Verdana Tur;}{\f1017\fswiss\fcharset186\fprq2 Verdana Baltic;}{\f1426\fswiss\fcharset238\fprq2 Arial Narrow CE;}{\f1427\fswiss\fcharset204\fprq2 Arial Narrow Cyr;}{\f1429\fswiss\fcharset161\fprq2 Arial Narrow Greek;}{\f1430\fswiss\fcharset162\fprq2 Arial Narrow Tur;}{\f1431\fswiss\fcharset186\fprq2 Arial Narrow Baltic;}{\f1516\fnil\fcharset238\fprq2 Antiqua CE;}{\f1520\fnil\fcharset162\fprq2 Antiqua Tur;}{\f1532\fswiss\fcharset162\fprq2 AvantGarde Md BT Tur;}{\f1538\froman\fcharset162\fprq2 Benguiat Bk BT Tur;}{\f1550\fdecor\fcharset162\fprq2 Bremen Bd BT Tur;}{\f1556\fdecor\fcharset162\fprq2 Broadway BT Tur;}{\f1604\fscript\fcharset162\fprq2 CommercialScript BT Tur;}{\f1606\fnil\fcharset238\fprq2 Compact CE;}{\f1610\fnil\fcharset162\fprq2 Compact Tur;}{\f1616\fswiss\fcharset162\fprq2 Compacta BT Tur;}{\f1622\fswiss\fcharset162\fprq2 CopprplGoth Bd BT Tur;}{\f1640\fdecor\fcharset162\fprq2 Decorated035 BT Tur;}{\f1658\fswiss\fcharset162\fprq2 Futura BdCn BT Tur;}{\f1670\fswiss\fcharset162\fprq2 Futura XBlk BT Tur;}{\f1676\fswiss\fcharset162\fprq2 Futura XBlkCn BT Tur;}{\f1682\fswiss\fcharset162\fprq2 Futura XBlkCnIt BT Tur;}{\f1688\fswiss\fcharset162\fprq2 Futura XBlkIt BT Tur;}{\f1694\fswiss\fcharset162\fprq2 Futura Hv BT Tur;}{\f1700\fswiss\fcharset162\fprq2 Futura Lt BT Tur;}{\f1706\fswiss\fcharset162\fprq2 Futura LtCn BT Tur;}{\f1712\fswiss\fcharset162\fprq2 Futura Md BT Tur;}{\f1718\fswiss\fcharset162\fprq2 Futura MdCn BT Tur;}{\f1736\froman\fcharset162\fprq2 Galliard BT Tur;}{\f1754\fswiss\fcharset162\fprq2 Geometr231 BT Tur;}{\f1760\fswiss\fcharset162\fprq2 Geometr231 Hv BT Tur;}{\f1766\fswiss\fcharset162\fprq2 Geometr231 Lt BT Tur;}{\f1772\fdecor\fcharset162\fprq2 GoudyHandtooled BT Tur;}{\f1778\froman\fcharset162\fprq2 GoudyOlSt BT Tur;}{\f1928\froman\fcharset162\fprq2 PosterBodoni BT Tur;}{\f1976\froman\fcharset162\fprq2 Souvenir Lt BT Tur;}{\f1982\fswiss\fcharset162\fprq2 Swis721 Th BT Tur;}{\f2018\fscript\fcharset162\fprq2 TypoUpright BT Tur;}{\f2192\fswiss\fcharset162\fprq2 Zurich Cn BT Tur;}{\f2198\fswiss\fcharset162\fprq2 Zurich Ex BT Tur;}{\f2204\fswiss\fcharset162\fprq2 Zurich XCn BT Tur;}{\f2210\fswiss\fcharset162\fprq2 Zurich Lt BT Tur;}{\f2216\fswiss\fcharset162\fprq2 Zurich LtCn BT Tur;}{\f2222\fswiss\fcharset162\fprq2 Zurich UBlkEx BT Tur;}{\f2248\fswiss\fcharset238\fprq2 AntigoniBd CE;}{\f2252\fswiss\fcharset162\fprq2 AntigoniBd Tur;}{\f2254\fswiss\fcharset238\fprq2 Antigoni CE;}{\f2258\fswiss\fcharset162\fprq2 Antigoni Tur;}{\f2260\fswiss\fcharset238\fprq2 MGI Archon CE;}{\f2264\fswiss\fcharset162\fprq2 MGI Archon Tur;}{\f2266\fswiss\fcharset238\fprq2 AucoinLight CE;}{\f2270\fswiss\fcharset162\fprq2 AucoinLight Tur;}{\f2278\fswiss\fcharset238\fprq2 Bedini CE;}{\f2282\fswiss\fcharset162\fprq2 Bedini Tur;}{\f2290\fswiss\fcharset238\fprq2 Eurostar Black Extended CE;}{\f2294\fswiss\fcharset162\fprq2 Eurostar Black Extended Tur;}{\f2296\fswiss\fcharset238\fprq2 Gourmand CE;}{\f2300\fswiss\fcharset162\fprq2 Gourmand Tur;}{\f2308\froman\fcharset238\fprq2 Palladius CE;}{\f2312\froman\fcharset162\fprq2 Palladius Tur;}{\f2320\fswiss\fcharset238\fprq2 Trebuchet MS CE;}{\f2324\fswiss\fcharset162\fprq2 Trebuchet MS Tur;}{\f2326\fswiss\fcharset238\fprq2 Antigoni Light CE;}{\f2330\fswiss\fcharset162\fprq2 Antigoni Light Tur;}{\f2332\fswiss\fcharset238\fprq2 Antigoni Med CE;}{\f2336\fswiss\fcharset162\fprq2 Antigoni Med Tur;}{\f2338\fswiss\fcharset238\fprq2 AucoinExtBol CE;}{\f2342\fswiss\fcharset162\fprq2 AucoinExtBol Tur;}{\f2350\fdecor\fcharset238\fprq2 Creepy CE;}{\f2354\fdecor\fcharset162\fprq2 Creepy Tur;}{\f2356\fswiss\fcharset238\fprq2 EraserDust CE;}{\f2360\fswiss\fcharset162\fprq2 EraserDust Tur;}{\f2362\fswiss\fcharset238\fprq2 Eurostar CE;}{\f2366\fswiss\fcharset162\fprq2 Eurostar Tur;}{\f2368\fswiss\fcharset238\fprq2 Eurostar Regular Extended CE;}{\f2372\fswiss\fcharset162\fprq2 Eurostar Regular Extended Tur;}{\f2392\fswiss\fcharset238\fprq2 Metro Nouveau CE;}{\f2396\fswiss\fcharset162\fprq2 Metro Nouveau Tur;}{\f2410\fswiss\fcharset238\fprq2 Peinaud CE;}{\f2414\fswiss\fcharset162\fprq2 Peinaud Tur;}{\f2422\fswiss\fcharset238\fprq2 Schindler CE;}{\f2426\fswiss\fcharset162\fprq2 Schindler Tur;}{\f2428\fswiss\fcharset238\fprq2 Schindler Small Caps CE;}{\f2432\fswiss\fcharset162\fprq2 Schindler Small Caps Tur;}{\f2544\fdecor\fcharset0\fprq2 ZapfDingbats;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\lang1049\cgrid \snext0 Обычный;}{\*\cs10 \additive Основной шрифт;}{\s15\qj\fi454\sl233\slmult0\nowidctlpar\tx850\adjustright \fs20\lang1024 \snext15 Body Text;}{\s16\qc\sb135\sl240\slmult0\keep\nowidctlpar\adjustright \fs20\lang1024 \snext16 Header2;}{\s17\sl120\slmult0\nowidctlpar\adjustright \fs20\lang1049 \snext17 ++++;}{\s18\qj\li227\sb18\sa18\sl210\slmult0\nowidctlpar{\*\pn \pnlvlblt\ilvl10\ls2047\pnrnot0\pnf14\pnfs20\pnstart1\pnindent240\pnhang{\pntxtb o}}\ls2047\ilvl10\adjustright \fs20\lang1024 \snext18 Bullet-9;}{\s19\li454\sl240\slmult0\keep\keepn\nowidctlpar\adjustright \fs20\lang1024 \snext19 Num a);}{\s20\qj\li680\sl240\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 \snext20 Num body a);}{\s21\qj\li283\sb80\sl187\slmult0\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\tx10800\tx11520\adjustright \fs20\lang1024 \snext21 Z_FNOT ENTRY;}{\s22\sb117\sa186\sl200\slmult0\nowidctlpar\adjustright \fs20\lang1049 \snext22 Header3 Left;}{\s23\qj\li227\sb20\sa20\sl233\slmult0\nowidctlpar{\*\pn \pnlvlblt\ilvl10\ls2047\pnrnot0\pnf14\pnfs20\pnstart1\pnindent240\pnhang{\pntxtb o}}\ls2047\ilvl10\adjustright \fs20\lang1024 \snext23 Bullet;}{\s24\qj\fi283\sb40\sl220\slmult0\nowidctlpar\tx850\adjustright \fs20\lang1024 \snext24 Text_Liter;}{\s25\qr\ri4978\sa40\sl240\slmult0\keep\keepn\nowidctlpar\adjustright \fs20\lang1024 \snext25 Num1Bold;}{\s26\qj\li454\sb40\sl233\slmult0\nowidctlpar\adjustright \fs20\lang1024 \snext26 body1;}{\s27\sl60\slmult0\nowidctlpar\adjustright \fs20\lang1049 \snext27 3;}{\s28\li454\sl240\slmult0\keep\keepn\nowidctlpar\adjustright \fs20\lang1024 \snext28 Num a)_Bold;}{\s29\nowidctlpar\widctlpar\adjustright \fs20\lang1049\cgrid \sbasedon0 \snext29 Текст концевой сноски;}{\s30\nowidctlpar\widctlpar\adjustright \fs20\lang1049\cgrid \sbasedon0 \snext30 текст сноски;}{\*\cs31 \additive \super \sbasedon10 знак сноски;}{\*\cs32 \additive \super \sbasedon10 Знак концевой сноски;}}{\*\listtable{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01*;}{\levelnumbers;}}{\listname ;}\listid-2}}{\*\listoverridetable{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent240{\leveltext\'01\u-3985 ?;}{\levelnumbers;}\f14\fs20\fbias0 \fi-240\li240 }}\ls1}}{\info{\title Часть 6}{\author Голубова Елена}{\operator Голубова Елена}{\creatim\yr2002\mo1\dy21\hr19\min27}{\revtim\yr2002\mo1\dy21\hr19\min27}{\version2}{\edmins0}{\nofpages33}{\nofwords5322}{\nofchars30341}{\*\company Лаборатория Базовых Знаний}{\nofcharsws37260}{\vern73}}\widowctrl\ftnbj\aendnotes\ftnnrlc\aftnnar\hyphcaps0\viewkind1\viewscale100 \fet0\sectd \linex0\headery709\footery709\colsx709\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1049\cgrid {\f365 Часть 6. Тестовые задания по теме}{
+\par 1.
+\par }{\f365 С помощью компьютера текстовую информацию можно: 
+\par а)
+\par хранить, получать и обрабатывать;
+\par б)
+\par только хранить;
+\par в)
+\par только получать;
+\par г)
+\par только обрабатывать.
+\par }{
+\par 2.
+\par }{\f365 Устройством ввода текстовой информации является:
+\par а)
+\par мышь;
+\par б)
+\par экран дисплея;
+\par в)
+\par клавиатура;
+\par г)
+\par дискета.
+\par }{
+\par 3.
+\par }{\f365 Устройством для вывода текстовой информации является:
+\par а)
+\par клавиатура;
+\par б)
+\par экран дисплея;
+\par в)
+\par дисковод;
+\par г)
+\par мышь.
+\par }{
+\par 4.
+\par }{\f365 Текстовый редактор \emdash  это программа, предназначенная для:
+\par а)
+\par работы с текстовой информацией в процессе делопроизводства, редакционно-издательской деятельности и др.;
+\par б)
+\par работы с изображениями в процессе создания игровых программ;
+\par в)
+\par управления ресурсами ПК при создании документов;
+\par г)
+\par а}{\f365\expnd0\expndtw-2\kerning20 втоматического перевода с символических языков }{\f365 в машинные коды.
+\par }{
+\par 5.
+\par }{\f365 Текстовый редактор может быть использован для:
+\par а)
+\par сочинения музыкального произведения;
+\par б)
+\par рисования;
+\par в)
+\par написания сочинения;
+\par г)
+\par совершения вычислительных операций.
+\par }{
+\par 6.
+\par }{\f365 Что пропущено в ряду: \ldblquote символ \emdash  ... \emdash  строка \emdash  фрагмент текста\rdblquote : 
+\par а)
+\par слово;
+\par б)
+\par абзац;
+\par в)
+\par страница;
+\par г)
+\par текст.
+\par }{
+\par 7.
+\par }{\f365 К числу основных преимуществ работы с текстом в текстовом редакторе (в сравнении с пишущей машинкой) следует назвать:
+\par а)
+\par }{\f365\expnd0\expndtw-4\kerning20 возможность многократного редактирования текста;}{
+\par }{\f365 б)
+\par возможность более быстрого набора текста;
+\par в)
+\par возможность уменьшения трудоемкости при работе с текстом;
+\par г)
+\par возможность использования различных шрифтов при наборе текста.
+\par }{
+\par 8.
+\par }{\f365 К числу основных функций текстового редактора относятся:
+\par а)
+\par копирование, перемещение, уничтожение и сортировка фрагментов текста;
+\par б)
+\par создание, редактирование, сохранение, печать текстов;
+\par в)
+\par управление ресурсами ПК и процессами, использующими эти ресурсами при создании текста;
+\par г)
+\par автоматическая обработка информации, представленной в текстовых файлах.
+\par }{
+\par 9.
+\par }{\f365 При работе с текстовым редактором необходимы }{\f365\expnd0\expndtw2\kerning20 следующие аппаратные средства персонального компьютера}{:
+\par }{\f365 а)
+\par клавиатура, дисплей, процессор, оперативное запоминающее устройство; внешнее запоминающее устройство, принтер;
+\par б)
+\par мышь, сканер, жесткий диск;
+\par в)
+\par модем, плоттер.
+\par }{
+\par 10.
+\par }{\f365 Примером фактографической базы данных (БД) является:
+\par а)
+\par БД, содержащая сведения о кадровом составе учреждения;
+\par б)
+\par БД, содержащая законодательные акты;
+\par в)
+\par БД, содержащая приказы по учреждению;
+\par г)
+\par БД, содержащая нормативные финансовые документы.
+\par }{
+\par 11.
+\par }{\f365 Примером документальной базы данных является:
+\par а)
+\par БД, содержащая законодательные акты;
+\par б)
+\par БД, содержащая сведения о кадровом составе учреждения;
+\par в)
+\par БД, содержащая сведения о финансовом состоянии учреждения;
+\par г)
+\par БД, содержащая сведения о проданных билетах.
+\par }{
+\par 12.
+\par }{\f365 Ключами поиска в СУБД называются:
+\par а)
+\par диапазон записей файла БД, в котором осуществляется поиск;
+\par б)
+\par логические выражения, определяющие условия поиска;
+\par в)
+\par поля, по значению которых осуществляется поиск;
+\par г)
+\par }{\f365\expnd0\expndtw-2\kerning20 номера записей, удовлетворяющих условиям поиска;}{
+\par }{\f365 д)
+\par номер первой по порядку записи, удовлетворяющей условиям поиска.
+\par }{
+\par 13.
+\par }{\f365 Сортировкой называют:
+\par а)
+\par п}{\f365\expnd0\expndtw-2\kerning20 роцесс поиска наибольшего и наименьшего элементов }{\f365 массива;
+\par б)
+\par процесс частичного упорядочивания некоторого множества;
+\par в)
+\par любой процесс перестановки элементов некоторого множества;
+\par г)
+\par процесс линейного упорядочивания некоторого множества;
+\par д)
+\par процесс выборки элементов множества, удовлетворяющих заданному условию.
+\par }{
+\par 14.
+\par }{\f365 Набор текста в текстовом редакторе осуществляется с помощью:
+\par а)
+\par мыши;
+\par б)
+\par сканера;
+\par в)
+\par модема;
+\par г)
+\par клавиатуры.
+\par }{
+\par 15.
+\par }{\f365 Символ, вводимый с клавиатуры при наборе текста, отображается на экране дисплея в позиции, определяемой:
+\par а)
+\par задаваемыми координатами;
+\par б)
+\par положением курсора;
+\par в)
+\par адресом;
+\par г)
+\par положением предыдущей набранной буквы.
+\par }{
+\par 16.
+\par }{\f365 Курсор \emdash  это:
+\par а)
+\par устройство ввода текстовой информации;
+\par б)
+\par клавиша на клавиатуре;
+\par в)
+\par наименьший элемент изображения на экране;
+\par г)
+\par отметка на экране дисплея, указывающая позицию, в которой будет отображен вводимый с клавиатуры символ.
+\par }{
+\par 17.
+\par }{\f365 Сообщение о том, где находится курсор:
+\par а)
+\par указывается в строке состояния текстового редактора;
+\par б)
+\par указывается в меню текстового редактора; 
+\par в)
+\par указывается в окне текстового редактора;
+\par г)
+\par совсем не указывается на экране.
+\par }{
+\par 18.
+\par }{\f365 Для переключения режимов при наборе прописных и строчных букв в текстовых редакторах, как правило, служит клавиша:
+\par а)
+\par }{<Caps Lock>;
+\par }{\f365 б)
+\par }{<Shift >;
+\par }{\f365 в)
+\par }{<Enter>;
+\par }{\f365 г)
+\par }{<Ctrl>.
+\par 
+\par 19.
+\par }{\f365 При наборе текста одно слово от другого отделяется:
+\par а)
+\par точкой;
+\par б)
+\par пробелом;
+\par в)
+\par запятой;
+\par г)
+\par двоеточием.
+\par }{
+\par 20.
+\par }{\f365 Редактирование текста представляет собой:
+\par а)
+\par }{\f365\expnd0\expndtw-4\kerning20 процесс внесения изменений в имеющийся текст;}{
+\par }{\f365 б)
+\par процедуру сохранения текста на диске в виде текстового файла;
+\par в)
+\par п}{\f365\expnd0\expndtw4\kerning20 роцесс передачи текстовой информации по компьютерной}{\f365  сети;
+\par г)
+\par процедуру считывания с внешнего запоминающего устройства ранее созданного текста.
+\par }{
+\par 21.
+\par }{\f365 Какая операция нарушает признак, по которому подобраны все остальные операции из приводимого ниже списка:
+\par а)
+\par печать текста;
+\par б)
+\par удаление в тексте неверно набранного символа;
+\par в)
+\par вставка пропущенного символа;
+\par г)
+\par замена неверно набранного символа;
+\par д)
+\par форматирование текста.
+\par }{
+\par 22.
+\par }{\f365 Какая операция нарушает признак, по которому подобраны все остальные операции из приводимого ниже списка:
+\par а)
+\par удаление фрагмента текста;
+\par б)
+\par форматирование текста;
+\par в)
+\par перемещение фрагмента текста;
+\par г)
+\par сохранение текста;
+\par д)
+\par копирование текста.
+\par }{
+\par 23.
+\par }{\f365 При редактировании текста для удаления неверно набранного символа используется клавиша:
+\par а)
+\par }{<Insert>;
+\par }{\f365 б)
+\par }{<Enter>; 
+\par }{\f365 в)
+\par }{<Esc>;
+\par }{\f365 г)
+\par }{<Delete>.
+\par 
+\par 24.
+\par }{\f365 Клавиша <Backspace> используется для удаления:
+\par а)
+\par символа, стоящего слева от курсора;
+\par б)
+\par символа, находящегося в позиции курсора;
+\par в)
+\par символа, расположенного справа от курсора;
+\par г)
+\par целиком всей строки.
+\par }{
+\par 25.
+\par }{\f365 Процедура форматирования текста предусматривает:
+\par а)
+\par запись текста в буфер;
+\par б)
+\par удаление текста;
+\par в)
+\par отмену предыдущей операции, совершенной над текстом;
+\par г)
+\par автоматическое расположение текста в соответствии с определенными правилами.
+\par }{
+\par 26.
+\par }{\f365 В процессе форматирования текста меняется:
+\par а)
+\par параметры страницы;
+\par б)
+\par размер шрифта;
+\par в)
+\par расположение текста;
+\par г)
+\par последовательность набранных символов.
+\par }{
+\par 27.
+\par }{\f365 Копирование текстового фрагмента в текстовом редакторе предусматривает в первую очередь:
+\par а)
+\par указание позиции, начиная с которой должен копироваться фрагмент;
+\par б)
+\par выделение копируемого фрагмента;
+\par в)
+\par выбор соответствующего пункта меню;
+\par г)
+\par открытие нового текстового окна.
+\par }{
+\par 28.
+\par }{\f365 Среди названных ниже характерных режимов для различных текстовых редакторов укажите тот, в котором осуществляется сохранение созданного и отредактированного текста:
+\par а)
+\par режим работы с файлами;
+\par б)
+\par режим ввода\endash редактирования;
+\par в)
+\par режим поиска по контексту и замены;
+\par г)
+\par режим орфографического контроля.
+\par }{
+\par 29.
+\par }{\f365 Продолжите, выбрав нужное:
+\par }{\ldblquote \'c1\'e8\'e1\'eb\'e8\'ee\'f2\'e5\'ea\'e0 \emdash  \'ea\'e0\'f2\'e0\'eb\'ee\'e3\rdblquote ;
+\par \ldblquote \'ca\'ed\'e8\'e3\'e0 \emdash  \'ee\'e3\'eb\'e0\'e2\'eb\'e5\'ed\'e8\'e5\rdblquote ;
+\par \ldblquote \'d2\'e5\'ea\'f1\'f2\'ee\'e2\'fb\'e9 \'f0\'e5\'e4\'e0\'ea\'f2\'ee\'f0 \emdash  ...\rdblquote .
+\par }{\f365 а)
+\par текст;
+\par б)
+\par окно;
+\par в)
+\par рабочее поле;
+\par г)
+\par меню.
+\par }{
+\par 30.
+\par }{\f365 Меню текстового редактора \emdash  это:
+\par а)
+\par часть его интерфейса, обеспечивающая переход к выполнению различных операций над текстом;
+\par б)
+\par подпрограмма, обеспечивающая управление ресурсами ПК при создании документа;
+\par в)
+\par своеобразное \ldblquote окно\rdblquote , через которое текст просматривается на экране;
+\par г)
+\par информация о текущем состоянии текстового редактора.
+\par }{
+\par 31.
+\par }{\f365 Для выбора необходимого раздела меню текстового редактора, как правило, используются:
+\par а)
+\par клавиша <Enter>;
+\par б)
+\par клавиши управления курсором;
+\par в)
+\par клавиша <Esc>;
+\par г)
+\par не указанные функциональные клавиши.
+\par }{32.
+\par }{\f365 Предположим, что курсор находится в позиции одного из разделов меню. После нажатия клавиши<En}{ter>:
+\par }{\f365 а)
+\par будет осуществлен вызов данного раздела меню;
+\par б)
+\par будет осуществлен возврат из данного раздела меню в рабочее поле текстового редактора;
+\par в)
+\par произойдет перемещение курсора на другой раздел меню;
+\par г)
+\par ничего не случится.
+\par }{
+\par 33.
+\par }{\f365 Возврат из вызванного раздела в меню текстового редактора, как правило, осуществляется по нажатию клавиши:
+\par а)
+\par }{<Enter>;
+\par }{\f365 б)
+\par }{<Esc>;
+\par }{\f365 в)
+\par управления курсором;
+\par г)
+\par <пробел>.
+\par }{
+\par 34.
+\par }{\f365 Поиск слова в тексте по заданному образцу является процессом:
+\par а)
+\par обработки информации;
+\par б)
+\par хранения информации;
+\par в)
+\par передачи информации;
+\par г)
+\par уничтожения информации.
+\par }{
+\par 35.
+\par }{\f365\expnd0\expndtw-2\kerning20 Сколько слов будет найдено (выделено, указано) в процессе автоматического поиска в тексте: \ldblquote Далеко за отмелью, в ельнике, раздалась птичья трель\rdblquote , если в качестве образца задать слово \ldblquote ель\rdblquote :}{
+\par }{\f365 а)
+\par 1 раз;}{
+\par }{\f365 б)
+\par 0 раз;
+\par в)
+\par 3 раза;
+\par г)
+\par 2 раза.
+\par }{
+\par 36.
+\par }{\f365 Текст, набранный в текстовом редакторе, хранится на внешнем запоминающем устройстве (магнитном, оптических дисках и др.):
+\par }{
+\par }{\f365 а)
+\par в виде файла;
+\par б)
+\par таблицы кодировки;
+\par в)
+\par каталога;
+\par г)
+\par директории.
+\par }{
+\par 37.
+\par }{\f365 Двоичный код каждого символа при кодировании текстовой информации в персональном компьютере занимает в его памяти:
+\par а)
+\par 4 бита;
+\par б)
+\par 1 бит;
+\par в)
+\par 2 байта;
+\par г)
+\par 1 байт.
+\par }{
+\par 38.
+\par }{\f365 Д}{\f365\expnd0\expndtw-4\kerning20 ля представления текстовой информации в компьютере}{\f365  используется алфавит мощностью:
+\par а)
+\par 33 символа;
+\par б)
+\par 256 символов;}{
+\par }{\f365 в)
+\par 29 символов;
+\par г)
+\par 2 символа.
+\par }{
+\par 39.
+\par }{\f365 Гипертекст \emdash  это:
+\par а)
+\par с}{\f365\expnd0\expndtw-4\kerning20 пособ организации текстовой информации, внутри}{\f365  которой установлены смысловые связи между ее различными фрагментами;
+\par б)
+\par обычный, но очень большой по объему текст;
+\par в)
+\par текст, буквы которого набраны шрифтом большого размера;
+\par г)
+\par распределенная совокупность баз данных, содержащих тексты.
+\par }{
+\par 40.
+\par }{\f365 В режиме работы с файлами в текстовом редакторе пользователь осуществляет:
+\par а)
+\par }{\f365\expnd0\expndtw2\kerning20 сохранение файлов, их загрузку с внешнего устройства;}{
+\par }{\f365 б)
+\par обращение к справочной информации;
+\par в)
+\par копирование фрагментов текстового файла;
+\par г)
+\par редактирование текстового файла.
+\par }{
+\par 41.
+\par }{\f365 При считывании текстового файла с диска пользователь должен указать:
+\par а)
+\par размеры файла;
+\par б)
+\par тип файла;
+\par в)
+\par имя файла;
+\par г)
+\par дату создания файла.
+\par }{\fs6 
+\par }{
+\par 42.
+\par }{\f365 Графический редактор \emdash  это программный продукт предназначенный для:
+\par а)
+\par управления ресурсами ПК при создании рисунков;
+\par б)
+\par работы с текстовой информацией в процессе делопроизводства, редакционно-издательской деятельности и др.;
+\par в)
+\par работы с изображениями в процессе создания игровых программ;
+\par г)
+\par обработки изображений.
+\par }{\fs6 
+\par }{43.
+\par }{\f365 С использованием графического редактора графическую информацию можно:
+\par а)
+\par создавать, редактировать, сохранять;
+\par б)
+\par только редактировать;
+\par в)
+\par только создавать;
+\par г)
+\par только создавать и сохранять.
+\par }{\fs6 
+\par }{44.
+\par }{\f365 Для вывода графической информации в персональном компьютере используется
+\par а)
+\par мышь;
+\par б)
+\par клавиатура;
+\par в)
+\par экран дисплея;
+\par г)
+\par сканер.
+\par }{\fs6 
+\par }{45.
+\par }{\f365 Какое из устройств нарушает признак, по которому подобраны все остальные устройства из приводимого ниже списка:
+\par а)
+\par сканер;
+\par б)
+\par плоттер;
+\par в)
+\par графический дисплей;
+\par г)
+\par принтер.
+\par }{46.
+\par }{\f365 Одной из основных функций графического редактора является:
+\par а)
+\par ввод изображений;
+\par б)
+\par хранение кода изображения;
+\par в)
+\par создание изображений;
+\par г)
+\par просмотр и вывод содержимого видеопамяти.
+\par }{
+\par 47.
+\par }{\f365 Графический редактор может быть использован для:
+\par а)
+\par написания сочинения;
+\par б)
+\par рисования;
+\par в)
+\par сочинения музыкального произведения;
+\par г)
+\par совершения вычислительных операций.
+\par }{
+\par 48.
+\par }{\f365 Точечный элемент экрана дисплея называется:
+\par а)
+\par точка;
+\par б)
+\par зерно люминофора;
+\par в)
+\par пиксел;
+\par г)
+\par растр.
+\par }{
+\par 49.
+\par }{\f365 Сетку из горизонтальных и вертикальных столбцов, которую на экране образуют пиксели, называют:
+\par а)
+\par видеопамять;
+\par б)
+\par видеодаптер;
+\par в)
+\par растр;
+\par г)
+\par дисплейный процессор.
+\par }{
+\par 50.
+\par }{\f365 Графика с представлением изображения в виде совокупностей точек называется:
+\par а)
+\par фрактальной;
+\par б)
+\par растровой;
+\par в)
+\par векторной;
+\par г)
+\par прямолинейной.
+\par }{
+\par 51.
+\par }{\f365 Пиксел на экране цветного дисплея представляет собой:
+\par а)
+\par совокупность трех зерен люминофора;
+\par б)
+\par зерно люминофора;
+\par в)
+\par электронный луч;
+\par г)
+\par совокупность 16 зерен люминофора.
+\par }{
+\par 52.
+\par }{\f365 Видеоадаптер \emdash  это:
+\par а)
+\par устройство управляющее работой графического дисплея;
+\par б)
+\par программа, распределяющая ресурсы видеопамяти;
+\par в)
+\par электронное, энергозависимое устройство для хранения информации о графическом изображении;
+\par г)
+\par дисплейный процессор.
+\par }{
+\par 53.
+\par }{\f365 Видеопамять \emdash  это:
+\par а)
+\par электронное, энергозависимое устройство для хранения двоичного кода изображения, выводимого на экран;
+\par б)
+\par программа, распределяющая ресурсы ПК при обработке изображения;
+\par в)
+\par устройство управляющее работой графического дисплея;
+\par г)
+\par часть оперативного запоминающего устройства.
+\par }{
+\par 54.
+\par }{\f365 Для хранения 256-цветного изображения на один писксел требуется:
+\par а)
+\par 2 байта;
+\par б)
+\par 4 бита;
+\par в)
+\par 256 бит;
+\par г)
+\par 1 байт.
+\par }{
+\par 55.
+\par }{\f365 Графические примитивы в графическом редакторе представляют собой:
+\par а)
+\par }{\f365\expnd0\expndtw-4\kerning20 простейшие фигуры, рисуемые с помощью специальных инструментов графического редактора;}{
+\par }{\f365 б)
+\par операции, выполняемые над файлами, содержащими изображения, созданные в графическом редакторе;
+\par в)
+\par среду графического редактора;
+\par г)
+\par режимы работы графического редактора.
+\par }{\fs8 
+\par }{56.
+\par }{\f365 Набор пиктограмм с изображением инструментов для рисования, палитра, рабочее поле, меню образуют:
+\par а)
+\par полный набор графических примитивов графического редактора;
+\par б)
+\par среду графического редактора;
+\par в)
+\par перечень режимов работы графического редактора;
+\par г)
+\par набор команд, которыми можно воспользоваться при работе с графическим редактором.
+\par }{\fs8 
+\par }{57.
+\par }{\f365 Среди перечисленных ниже характерных режимов для различных графических редакторов укажите тот, в котором осуществляется сохранение созданного и отредактированного рисунка:
+\par а)
+\par режим работы с внешними устройствами;
+\par б)
+\par режим выбора и настройки инструмента}{;
+\par }{\f365 в)
+\par режим выбора рабочих цветов;
+\par г)
+\par режим работы с рисунком.
+\par }{\fs8 
+\par }{58.
+\par }{\f365 В режиме выбора рабочих цветов графического редактора осуществляется:
+\par а)
+\par установка цвета фона;
+\par б)
+\par окрашивание фрагмента рисунка;
+\par в)
+\par редактирование рисунка;
+\par г)
+\par выбор графических примитивов графического редактора.
+\par }{\fs8 
+\par }{59.
+\par }{\f365 В режиме работы с рисунком в графическом редакторе производится:
+\par а)
+\par установка цвета фона;
+\par б)
+\par запись рисунка на диск, считывание рисунка с диска;
+\par в)
+\par создание и редактирование изображения;
+\par г)
+\par выбор графических примитивов графического редактора.
+\par }{60.
+\par }{\f365 Какое устройство нарушает признак, по которому подобраны все остальные устройства (для работы с графическим редактором) из приводимого ниже списка:
+\par а)
+\par джойстик;
+\par б)
+\par мышь;
+\par в)
+\par принтер;
+\par г)
+\par шар.
+\par }{
+\par 61.
+\par }{\f365 Какой инструмент нарушает признак, по которому подобраны все остальные инструменты (для работы в графическом редакторе) из приводимого ниже списка:
+\par а)
+\par кисточка (перо, карандаш);
+\par б)
+\par прямоугольник;
+\par в)
+\par резинка (для стирания);
+\par г)
+\par валик (лейка);
+\par д)
+\par ножницы.
+\par }{
+\par 62.
+\par }{\f365 В процессе преобразования растрового графического файла количество цветов уменьшилось с 65536 до 256. Во сколько раз уменьшится объем файла:
+\par а)
+\par в 4 раза;
+\par б)
+\par в 2 раза;
+\par в)
+\par в 8 раз;
+\par г)
+\par в 16 раз.
+\par }{
+\par 63.
+\par }{\f365 Метод кодирования цвета CMY, как правило, применяется:
+\par а)
+\par }{\f365\expnd0\expndtw-2\kerning20 при организации работы на печатающих устройствах;}{
+\par }{\f365 б)
+\par при кодировке изображений, выводимых на экран цветного дисплея;
+\par в)
+\par при сканировании изображений;
+\par г)
+\par при хранении информации в видеопамяти.
+\par }{
+\par 64.
+\par }{\f365 Метод кодирования цвета RBG, как правило, применяется:
+\par а)
+\par при кодировании изображений, выводимых на экран цветного дисплея;
+\par б)
+\par }{\f365\expnd0\expndtw-2\kerning20 при организации работы на печатающих устройствах;}{
+\par }{\f365 в)
+\par при сканировании изображений;
+\par г)
+\par при хранении информации в видеопамяти.
+\par }{\fs10 
+\par }{65.
+\par }{\f365 Применение векторной графики по сравнению с растровой:
+\par а)
+\par не меняет способы кодирования изображения}{;
+\par }{\f365 б)
+\par увеличивает объем памяти, необходимой для хранения изображения;
+\par в)
+\par не влияет на объем памяти, необходимой для хранения изображения, и на трудоемкость редактирования изображения;
+\par г)
+\par сокращает объем памяти, необходимой для хранения изображения, и облегчает редактирование последнего.
+\par }{\fs10 
+\par }{66.
+\par }{\f365 Электронная таблица \emdash  это:
+\par а)
+\par прикладная программа, предназначенная для обработки структурированных в виде таблицы данных;
+\par б)
+\par прикладная программа для обработки кодовых таблиц;
+\par в)
+\par устройство персонального компьютера, управляющее его ресурсами в процессе обработки данных в табличной форме;
+\par г)
+\par }{\f365\expnd0\expndtw-4\kerning20 системная программа, управляющая ресурсами персонального компьютера при обработке таблиц.}{
+\par }{\fs10 
+\par }{67.
+\par }{\f365 Электронная таблица предназначена для:
+\par а)
+\par }{\f365\expnd0\expndtw4\kerning20 осуществляемой в процессе экономических}{\f365 , бухгалтерских, инженерных расчетов обработки преимущественно числовых данных, структурированных с помощью таблиц,;
+\par б)
+\par упорядоченного хранения и обработки значительных массивов данных;
+\par в)
+\par визуализации структурных связей между данными, представленными в таблицах;}{
+\par }{\f365 г)
+\par р}{\f365\expnd0\expndtw4\kerning20 едактирования графических представлений юольших}{\f365  объемов информации.
+\par }{
+\par 68.
+\par }{\f365 Электронная таблица представляет собой:
+\par а)
+\par совокупность нумерованных строк и поименованных с использованием букв латинского алфавита столбцов;
+\par б)
+\par совокупность поименованных с использованием букв латинского алфавита строк и нумерованных столбцов;
+\par в)
+\par совокупность пронумерованных строк и столбцов;
+\par г)
+\par совокупность строк и столбцов, именуемых пользователем произвольным образом. 
+\par }{
+\par 69.
+\par }{\f365 Принципиальным отличием электронной таблицы от обычной является:
+\par а)
+\par возможность автоматического пересчета задаваемых по формулам данных при изменении исходных;
+\par б)
+\par возможность обработки данных, структурированных в виде таблицы;
+\par в)
+\par возможность наглядного представления связей между обрабатываемыми данными;
+\par г)
+\par возможность обработки данных, представленных в строках различного типа. 
+\par }{
+\par 70.
+\par }{\f365 Строки электронной таблицы:
+\par а)
+\par именуются пользователем произвольным образом;
+\par б)
+\par обозначаются буквами русского алфавита А...Я;
+\par в)
+\par обозначаются буквами латинского алфавита;
+\par г)
+\par нумеруются.
+\par }{
+\par 71.
+\par }{\f365 Столбцы электронной таблицы:
+\par а)
+\par обозначаются буквами латинского алфавита;
+\par б)
+\par нумеруются;
+\par в)
+\par обозначаются буквами русского алфавита А...Я;
+\par г)
+\par именуются пользователем произвольным образом.
+\par }{
+\par 72.
+\par }{\f365 Для пользователя ячейка электронной таблицы идентифицируется:
+\par а)
+\par путем последовательного указания имени столбца и номера строки, на пересечении которых располагается ячейка;
+\par б)
+\par адресом машинного слова оперативной памяти, отведенного под ячейку;
+\par в)
+\par специальным кодовым словом;
+\par г)
+\par именем, произвольно задаваемым пользователем.
+\par }{
+\par 73.
+\par }{\f365 Вычислительные формулы в ячейках электронной таблицы записываются:
+\par а)
+\par в обычной математической записи;
+\par б)
+\par специальным образом с использованием встроенных функций и по правилам, принятым для записи выражений в языках программирования;}{
+\par }{\f365 в)
+\par п}{\f365\expnd0\expndtw-4\kerning20 о правилам, принятым исключительно для электронных}{\f365  таблиц;
+\par г)
+\par по правилам, принятым исключительно для баз данных.
+\par }{
+\par 74.
+\par }{\f365 Выражение 3(А1+В1) : 5 (2В1\endash 3А2), записанное в соответствии с правилами, принятыми в математике, в электронной таблице имеет вид:
+\par а)}{
+\par }{\f365 3*(А1+В1)/(5*(2*В1\endash 3*А2));
+\par б)
+\par 3(А1+В1)/5(2В1\endash 3А2);
+\par в)
+\par 3(А1+В1): 5(2В1\endash 3А2);
+\par г)
+\par 3(А1+В1)/( 5(2В1\endash 3А2)).
+\par }{
+\par 75.
+\par }{\f365 Среди приведенных формул отыщите формулу для электронной таблицы:
+\par а)
+\par }{A3B8+12;
+\par }{\f365 б)
+\par А1=A3*B8+12;
+\par в)
+\par }{A3*B8+12;
+\par }{\f365 г)
+\par }{=A3*B8+12.
+\par 
+\par 76.
+\par }{\f365 Запись формулы в электронной таблице не может включать в себя
+\par а)
+\par знаки арифметических операций;
+\par б)
+\par числовые выражения;
+\par в)
+\par имена ячеек;
+\par г)
+\par текст.
+\par }{
+\par 77.
+\par }{\f365 При перемещении или копировании в электронной таблице абсолютные ссылки:
+\par а)
+\par не изменяются;
+\par б)
+\par преобразуются вне зависимости от нового положения формулы;
+\par в)
+\par преобразуются в зависимости от нового положения формулы;
+\par г)
+\par преобразуются в зависимости от длины формулы.
+\par }{
+\par 78.
+\par }{\f365 При перемещении или копировании в электронной таблице относительные ссылки:
+\par а)
+\par преобразуются в зависимости от нового положения формулы.
+\par б)
+\par не изменяются;
+\par в)
+\par преобразуются вне зависимости от нового положения формулы.
+\par г)
+\par преобразуются в зависимости от длины формулы.
+\par }{
+\par 79.
+\par }{\f365 В ячейке электронной таблице H5 записана формула =B5*V5. Какая формула будет получена из нее при копировании в ячейку H7:
+\par }{
+\par }{\f365 а)
+\par }{=$B5*V5;
+\par }{\f365 б)
+\par }{=B5*V5;
+\par }{\f365 в)
+\par }{=$B5*$V5;
+\par }{\f365 г)
+\par }{=B7*V7.
+\par 
+\par 80.
+\par }{\f365 В ячейке электронной таблице H5 записана формула =$B$5*V5. Какая формула будет получена из нее при копировании в ячейку H7:
+\par а)
+\par }{=$B$7*V7;
+\par }{\f365 б)
+\par }{=$B$5*V5;
+\par }{\f365 в)
+\par }{=$B$5*V7;
+\par }{\f365 г)
+\par }{=B$7*V7.
+\par 
+\par 81.
+\par }{\f365 В ячейке электронной таблице H5 записана формула =$B$5*5. Какая формула будет получена из нее при копировании в ячейку H7:
+\par а)
+\par }{=B$5*7;
+\par }{\f365 б)
+\par }{=$B$5*7;
+\par }{\f365 в)
+\par }{=$B$7*7;
+\par }{\f365 г)
+\par }{=$B$5*5.
+\par 
+\par 82.
+\par }{\f365 Диапазон \emdash  это:
+\par а)
+\par совокупность клеток, образующих в таблице область прямоугольной формы;
+\par б)
+\par все ячейки одной строки;
+\par в)
+\par все ячейки одного столбца;
+\par г)
+\par множество допустимых значений.
+\par }{
+\par 83.
+\par }{\f365 Сколько ячеек электронной таблицы в диапазоне A2:B4:
+\par а)
+\par }{8;
+\par }{\f365 б)
+\par }{2;
+\par }{\f365 в)
+\par }{6;
+\par }{\f365 г)
+\par }{4.
+\par 
+\par 84.
+\par }{\f365 В электронной таблице в ячейке A1 записано число 5, в B1 \emdash  формула =А1*2, в C1 формула =А1+В1. Чему равно значение С1:
+\par а)
+\par }{15;
+\par }{\f365 б)
+\par }{10;
+\par }{\f365 в)
+\par }{20;
+\par }{\f365 г)
+\par }{25.
+\par 
+\par 85.
+\par }{\f365 В электронной таблице в ячейке A1 записано число 10, в B1 \emdash  формула =А1/2, в C1 формула =СУММ(А1:В1)*2. Чему равно значение С1:
+\par а)
+\par }{10;
+\par }{\f365 б)
+\par }{150;
+\par }{\f365 в)
+\par }{100;
+\par }{\f365 г)
+\par }{50.
+\par 
+\par 86.
+\par }{\f365 Активная ячейка \emdash  это ячейка:
+\par а)
+\par для записи команд;
+\par б)
+\par содержащая формулу, включающую в себя имя ячейки, в которой выполняется ввод данных; 
+\par в)
+\par формула в которой содержит ссылки на содержимое зависимой ячейки;
+\par г)
+\par в которой выполняется ввод данных.
+\par }{ 
+\par 87.
+\par }{\f365 Деловая графика представляет собой:
+\par а)
+\par график совещания;
+\par б)
+\par графические иллюстрации;
+\par в)
+\par совокупность графиков функций;
+\par г)
+\par совокупность программных средств, позволяющих представить в графическом виде закономерности изменения числовых данных.
+\par }{
+\par 88.
+\par }{\f365 Диаграмма \emdash  это: 
+\par а)
+\par форма графического представления числовых значений, которая позволяет облегчить интерпретацию числовых данных;
+\par б)
+\par график;
+\par в)
+\par красиво оформленная таблица;
+\par г)
+\par карта местности. 
+\par }{
+\par 89.
+\par }{\f365 Какой тип диаграммы, как правило, используется для построения обычных графиков функций:
+\par а)
+\par гистограмма;
+\par б)
+\par линейчатая диаграмма;
+\par в)
+\par радиальная диаграмма;
+\par г)
+\par круговая диаграмма.
+\par }{
+\par 90.
+\par }{\f365 Линейчатая диаграмма \emdash  это:
+\par а)
+\par диаграмма, в которой отдельные значения представлены полосами различной длины, расположенными горизонтально вдоль оси Х;
+\par б}{)
+\par }{\f365 диаграмма, отдельные значения которой представлены точками в декартовой системе координат;
+\par в)
+\par диаграмма, в которой отдельные значения представлены вертикальными столбиками различной высоты;
+\par г)
+\par диаграмма, представленная в виде круга разбитого на секторы, и в которой допускается только один ряд данных.
+\par }{
+\par 91.
+\par }{\f365 Гистограмма \emdash  это:
+\par а)
+\par диаграмма, в которой отдельные значения представлены вертикальными столбцами различной высоты;
+\par б)
+\par диаграмма, для представления отдельных значений которой используются параллелепипеды, размещенные вдоль оси Х;
+\par в)
+\par }{\f365\expnd0\expndtw4\kerning20 диаграмма, в которой используется система координат с тремя координатными осями, что позволяет получить эффект пространственного представления рядов данных.;}{
+\par }{\f365 г)
+\par диаграмма, в которой отдельные значения представлены полосами различной длины, расположенными горизонтально вдоль оси Х.
+\par }{
+\par 
+\par 92.
+\par }{\f365 Круговая диаграмма \emdash  это:
+\par а)
+\par диаграмма, представленная в виде круга разбитого на секторы, и в которой допускается только один ряд данных;
+\par б)
+\par диаграмма, отдельные значения которой представлены точками в декартовой системе координат;
+\par в)
+\par диаграмма, в которой отдельные ряды данных п}{\f365\expnd0\expndtw-2\kerning20 редставлены в виде закрашенных разными цветами}{\f365  областей;
+\par г)
+\par }{\f365\expnd0\expndtw4\kerning20 диаграмма, в которой используется система координат с тремя координатными осями, что позволяет получить эффект пространственного представления рядов данных.}{
+\par 
+\par 93.
+\par }{\f365\expnd0\expndtw-2\kerning20 Диаграмма, отдельные значения которой представлены}{\f365  точками в декартовой системе координат, называется:
+\par а)
+\par линейчатой;
+\par б)
+\par точечной;
+\par в)
+\par круговой;
+\par г)
+\par гистограммой.
+\par }{
+\par 94.
+\par }{\f365 Гистограмма наиболее пригодна для: 
+\par а)}{
+\par }{\f365 для отображения распределений;
+\par б)
+\par сравнения различных членов группы;
+\par в)
+\par для отображения динамики изменения данных;
+\par г)
+\par для отображения удельных соотношений различных признаков.
+\par }{
+\par 95.
+\par }{\f365 База данных \emdash  это:
+\par а)
+\par специальным образом организованная и хранящаяся на внешнем носителе совокупность взаимосвязанных данных о некотором объекте;
+\par б)
+\par совокупность программ для хранения и обработки больших массивов информации;
+\par в)
+\par интерфейс, поддерживающий наполнение и манипулирование данными;
+\par г)
+\par определенная совокупность информации.
+\par }{
+\par 96.
+\par }{\f365 Примером иерархической базы данных является:
+\par а)
+\par страница классного журнала;
+\par б)
+\par каталог файлов, хранимых на диске;
+\par в)
+\par расписание поездов;
+\par г)
+\par электронная таблица.
+\par }{
+\par 97.
+\par }{\f365 В иерархической базе данных совокупность данных и связей между ними описывается:
+\par а)
+\par таблицей;
+\par б)
+\par сетевой схемой;
+\par в)
+\par древовидной структурой;
+\par г)
+\par совокупностью таблиц.
+\par }{
+\par 98.
+\par }{\f365 Сетевая база данных предполагает такую организацию данных, при которой:
+\par а)
+\par связи между данными отражаются в виде таблицы;
+\par б)
+\par связи между данными описываются в виде дерева;
+\par в)
+\par п}{\f365\expnd0\expndtw2\kerning20 омимо вертикальных иерархических связей (между}{\f365\expnd0\expndtw-2\kerning20  данными) существуют и горизонтальные;}{
+\par }{\f365 г)
+\par связи между данными отражаются в виде совокупности нескольких таблиц.
+\par }{
+\par 99.
+\par }{\f365 Наиболее распространенными в практике являются:
+\par а)
+\par распределенные базы данных;
+\par б)
+\par иерархические базы данных;
+\par в)
+\par сетевые базы данных;
+\par г)
+\par реляционные базы данных.
+\par }{
+\par 
+\par 100.
+\par }{\f365 Н}{\f365\expnd0\expndtw-2\kerning20 аиболее точным аналогом реляционной базы данных}{\f365  может служить:
+\par а)
+\par неупорядоченное множество данных;
+\par б)
+\par вектор;
+\par в)
+\par генеалогическое дерево;
+\par г)
+\par двумерная таблица.
+\par }{
+\par 101.
+\par }{\f365 Поля реляционной базы данных:
+\par а)
+\par именуются пользователем произвольно с определенными ограничениями;
+\par б)
+\par автоматически нумеруются;
+\par в)
+\par и}{\f365\expnd0\expndtw-2\kerning20 менуются по правилам, специфичным для каждой}{\f365  конкретной СУБД;
+\par г)
+\par н}{\f365\expnd0\expndtw-4\kerning20 умеруются по правилам, специфичным для каждой }{\f365 конкретной СУБД.}{
+\par 
+\par 102.
+\par }{\f365 Структура файла реляционной базы данных (БД) полностью определяется:
+\par а)
+\par перечнем названий полей и указанием числа записей БД;
+\par б)
+\par перечнем названий полей с указанием их ширины и типов;
+\par в)
+\par числом записей в БД;
+\par г)
+\par содержанием записей, хранящихся в БД.
+\par }{
+\par 103.
+\par }{\f365 Структура файла реляционной базы данных (БД) меняется при:
+\par а)
+\par удалении одного из полей;
+\par б)
+\par удалении одной записи;
+\par в)
+\par удалении нескольких записей;
+\par г)
+\par удалении всех записей.
+\par }{
+\par 104.
+\par }{\f365 В записи файла реляционной базы данных (БД) может содержаться:
+\par а)
+\par неоднородная информация (данные разных типов);
+\par б)
+\par исключительно однородная информация (данные только одного типа);
+\par в)
+\par только текстовая информация;
+\par г)
+\par исключительно числовая информация.
+\par }{
+\par 105.
+\par }{\f365 В поле файла реляционной базы данных (БД) могут быть записаны:
+\par а)
+\par только номера записей;
+\par б)
+\par как числовые, так и текстовые данные одновременно;
+\par в)
+\par данные только одного типа;
+\par г)
+\par только время создания записей.
+\par }{
+\par 106.
+\par }{\f365 К какому типу данных относится значение выражения }{0,7\endash 3>2
+\par }{\f365 а)
+\par числовой;
+\par б)
+\par логический;
+\par в)
+\par строковый;
+\par г)
+\par целый.
+\par }{
+\par 107.
+\par }{\f365 Система управления базами данных \emdash  это:
+\par а)
+\par программная система, поддерживающая наполнение и манипулирование данными в файлах баз данных;
+\par б)
+\par набор программ, обеспечивающий работу всех аппаратных устройств компьютера и доступ пользователя к ним;
+\par в)
+\par прикладная программа для обработки текстов и различных документов;
+\par г)
+\par оболочка операционной системы, позволяющая более комфортно работать с файлами.
+\par }{
+\par 108.
+\par }{\f365 В число основных функций СУБД не входит:
+\par а)
+\par определение того, какая именно информация (о чем) будет храниться в базе данных;
+\par б)
+\par создание структуры файла базы данных;
+\par в)
+\par первичный ввод, пополнение, редактирование данных;
+\par г)
+\par поиск и сортировка данных.
+\par }{
+\par 109.
+\par }{\f365 Предположим, что некоторая база данных содержит поля ФАМИЛИЯ, ГОД РОЖДЕНИЯ, ДОХОД. При поиске по условию:}{
+\par }{\f365 ГОД РОЖДЕНИЯ>1958 AND ДОХОД<3500 
+\par будут найдены фамилии лиц:
+\par а)
+\par имеющих доход менее 3500 и тех, кто родился в 1958 году и позже;
+\par б)
+\par имеющих доход менее 3500 и старше тех, кто родился в 1958 году;
+\par в)
+\par имеющих доход менее 3500 или тех, кто родился в 1958 году и позже;
+\par г)
+\par имеющих доход менее 3500 и родившихся в 1959 году и позже.
+\par }{
+\par 110.
+\par }{\f365 Предположим, что некоторая база данных содержит поля ФАМИЛИЯ, ГОД РОЖДЕНИЯ, ДОХОД. Какая из перечисленных ниже записей этой БД будет найдена при поиске по условию:
+\par ГОД РОЖДЕНИЯ>1958 OR ДОХОД<3500:
+\par а)
+\par Петров, 1956, 3600;
+\par б)
+\par Иванов, 1956, 2400;
+\par в)
+\par Сидоров, 1957, 5300;
+\par г)
+\par Козлов, 1952, 1200.
+\par }{
+\par 111.
+\par }{\f365 Предположим, что некоторая база данных описывается следующим перечнем записей:
+\par 1 Иванов, 1956, 2400;
+\par 2 Сидоров, 1957, 5300;
+\par 3 Петров}{, 1956, 3600;
+\par }{\f365 4 Козлов, 1952, 1200;
+\par Какие из записей поменяются местами при сортировке по возрастанию этой БД, если она будет осуществляться по первому полю:
+\par а)
+\par 1 и 4;
+\par б)
+\par 1 и 3;
+\par в)
+\par 2 и 4;
+\par г)
+\par 2 и 3. 
+\par }{112.
+\par }{\f365 Предположим, что некоторая база данных описывается следующим перечнем записей:
+\par 1 Иванов, 1956, 2400;
+\par 2 Сидоров, 1957, 5300;
+\par 3 Петров, 1956, 3600;
+\par 4 Козлов, 1952, 1200;
+\par В каком порядке будут располагаться эти записи после сортировки по возрастанию, если она будет осуществляться по второму полю:
+\par а)
+\par }{4, 3, 1, 2;
+\par }{\f365 б)
+\par }{2, 1, 3, 4;
+\par }{\f365 в)
+\par }{1,2, 3, 4;
+\par }{\f365 г)
+\par }{2, 3, 1, 4. 
+\par 
+\par 113.
+\par }{\f365 Экспертная система представляет собой:
+\par а)
+\par компьютерную программу, позволяющую в некоторой предметной области делать выводы, сопоставимые с выводами человека-эксперта;
+\par б)
+\par стратегию решения задач, позволяющую осуществлять манипулирование знаниями на уровне человека-эксперта в определенной предметной области;
+\par в)
+\par язык представления знаний;
+\par г)
+\par прикладную программу, созданную на основе системы управления базами данных. 
+\par }{
+\par 114.
+\par }{\f365 Составными частями экспертной системы являются:
+\par а)
+\par база знаний, механизм вывода, система пользовательского интерфейса;
+\par б)
+\par базы данных, система пользовательского интерфейса;
+\par в)
+\par совокупность баз данных, электронных таблиц и система пользовательского интерфейса;
+\par г)
+\par ч}{\f365\expnd0\expndtw-2\kerning20 еловек-эксперт, программы речевого ввода, текстовый }{\f365 редактор.
+\par }{\tab 
+\par 115.
+\par }{\f365 База знаний содержит:
+\par а)
+\par ответы на все вопросы;
+\par б)
+\par базу данных и правила их поиска;
+\par в)
+\par набор произвольных высказываний;
+\par г)
+\par факты и правила, используемые для вывода других знаний.
+\par }{
+\par 116.
+\par }{\f365 В отличие от базы данных база знаний содержит:
+\par а)
+\par факты;
+\par б)
+\par записи;
+\par в)
+\par правила;
+\par г)
+\par стратегии решения задачи.
+\par }{
+\par 117.
+\par }{\f365\expnd0\expndtw2\kerning20 Комплекс аппаратных и программных средств, позволяющих компьютерам обмениваться данными, \emdash  это:}{
+\par }{\f365 а)
+\par магистраль;
+\par б)
+\par интерфейс;
+\par в)
+\par адаптер;
+\par г)
+\par компьютерная сеть;
+\par д}{)
+\par }{\f365 шины данных.
+\par }{
+\par 118.
+\par }{\f365 Глобальная компьютерная сеть \emdash  это:
+\par а)
+\par информационная система с гиперсвязями;
+\par б)
+\par множество компьютеров, связанных каналами передачи информации и находящихся в пределах одного помещения, здания;
+\par в)
+\par совокупность хост-компьютеров и файл-серверов;
+\par г)
+\par система обмена информацией на определенную тему;
+\par д)
+\par совокупность локальных сетей и компьютеров, расположенных на больших расстояниях и соединенных с помощью каналов связи в единую систему.
+\par }{
+\par 119.
+\par }{\f365 Множество компьютеров, связанных каналами передачи информации и находящихся в пределах одного помещения, здания, называется:
+\par а)
+\par глобальной компьютерной сетью;
+\par б)
+\par информационной системой с гиперсвязями;
+\par в)
+\par локальной компьютерной сетью;
+\par г)
+\par электронной почтой;
+\par д)
+\par региональной компьютерной сетью.
+\par }{
+\par 120.
+\par }{\f365 Конфигурация (топология) локальной компьютерной сети, в которой все рабочие станции соединены с файл-сервером, называется:
+\par а)
+\par кольцевой;
+\par б)
+\par радиальной;
+\par в)
+\par шинной;
+\par г)
+\par древовидной;
+\par д)
+\par радиально-кольцевой.
+\par }{
+\par 121.
+\par }{\f365 Какой из перечисленных способов подключения к Интернет обеспечивает наибольшие возможности для доступа к информационным ресурсам:
+\par а)
+\par постоянное соединение по оптоволоконному каналу;
+\par б)
+\par удаленный доступ по телефонным каналам;
+\par в)
+\par постоянное соединение по выделенному каналу;
+\par г)
+\par терминальное соединение по коммутируемому телефонному каналу;
+\par д)
+\par временный доступ по телефонным каналам.
+\par }{
+\par 122.
+\par }{\f365 Для хранения файлов, предназначенных для общего доступа пользователей сети, используется:
+\par а)
+\par хост-компьютер;
+\par б)
+\par файл-сервер;
+\par в)
+\par рабочая станция;
+\par г)
+\par клиент-сервер;
+\par д)
+\par коммутатор.}{
+\par 
+\par 123.
+\par }{\f365 Сетевой протокол \emdash  это:
+\par а)
+\par набор соглашений о взаимодействиях в компьютерной сети;
+\par б)
+\par последовательная запись событий, происходящих в компьютерной сети;
+\par в)
+\par правила интерпретации данных, передаваемых по сети;
+\par г)
+\par п}{\f365\expnd0\expndtw-4\kerning20 равила установления связи между двумя компьютерам}{\f365 и в сети;
+\par д)
+\par согласование различных процессов во времени.
+\par }{
+\par 124.
+\par }{\f365 Обмен информацией между компьютерными сетями, в которых действуют разные стандарты представления информации (сетевые протоколы), осуществляется с использованием:
+\par а)
+\par хост-компьютеров;
+\par б)
+\par электронной почты;
+\par в)
+\par шлюзов;
+\par г)
+\par модемов;
+\par д)
+\par файл-серверов.
+\par }{
+\par 125.
+\par }{\f365 Транспортный протокол (TCP) обеспечивает:
+\par а)
+\par разбиение файлов на IP- пакеты в процессе передачи и сборку файлов в процессе получения;
+\par б)
+\par прием, передачу и выдачу одного сеанса связи;
+\par в}{)
+\par }{\f365 предоставление в распоряжение пользователя уже переработанную информацию;
+\par г)
+\par доставку информации от компьютера-отправителя к компьютеру- получателю;
+\par д)
+\par разбиение файлов на IP- пакеты в процессе передачи и сборку файлов в процессе получения.
+\par }{
+\par 126.
+\par }{\f365 Протокол маршрутизации (IP) обеспечивает:
+\par а)
+\par доставку информации от компьютера-отправителя к компьютеру- получателю;
+\par б)
+\par интерпретацию данных и подготовку их для пользовательского уровня;
+\par в)
+\par }{\f365\expnd0\expndtw-4\kerning20 сохранение механических, функциональных параметров физической связи в компьютерной сети;}{
+\par }{\f365 г)
+\par управление аппаратурой передачи данных и каналов связи;
+\par д)
+\par разбиение файлов на IP- пакеты в процессе передачи и сборку файлов в процессе получения.
+\par }{
+\par 127.
+\par }{\f365 Компьютер, подключенный к Интернет, обязательно имеет:
+\par а)
+\par IP \emdash  адрес;
+\par б)
+\par WEB \emdash  страницу;
+\par в)
+\par домашнюю WEB \emdash  страницу;
+\par г)
+\par доменное имя;
+\par д)
+\par URL \emdash  адрес.
+\par }{
+\par 128.
+\par }{\f365 Какой домен верхнего уровня в Internet имеет Россия:
+\par а)
+\par }{us;
+\par }{\f365 б)
+\par }{su;
+\par }{\f365 в)
+\par }{ru;
+\par }{\f365 г)
+\par }{ra;
+\par }{\f365 д)
+\par }{ss.
+\par 
+\par 129.
+\par }{\f365 Модем обеспечивает:
+\par а)
+\par преобразование двоичного кода в аналоговый сигнал и обратно; 
+\par б)
+\par исключительно преобразование двоичного кода в аналоговый сигнал;
+\par в)
+\par и}{\f365\expnd0\expndtw-2\kerning20 сключительно преобразование аналогового сигнала}{\f365  в двоичный код; 
+\par г)
+\par усиление аналогового сигнала;
+\par д)
+\par ослабление аналогового сигнала.
+\par }{
+\par 130.
+\par }{\f365 Модем, передающий информацию со скоростью 28800 бит/с, может передать 2 страницы текста (3600 байт) в течение:
+\par а)
+\par 1 секунды;
+\par б)
+\par 1 минуты;
+\par в)
+\par 1 часа;
+\par г)
+\par суток;
+\par д)
+\par недели.
+\par }{ 
+\par 131.
+\par }{\f365\expnd0\expndtw-4\kerning20 Минимально приемлемой производительностью модема }{\f365 для работы в Интернете считается величина:
+\par а)
+\par 4800 бит/сек;
+\par б)
+\par 9600 бит/сек;
+\par в)}{
+\par }{\f365 14 400 бит/сек;
+\par г)
+\par 19 2000 бит/сек;
+\par д)
+\par 28 800 бит/сек.
+\par }{
+\par 132.
+\par }{\f365 Телеконференция \emdash  это:
+\par а)
+\par обмен письмами в глобальных сетях;
+\par б)
+\par информационная система в гиперсвязях;
+\par в)
+\par система обмена информацией между абонентами компьютерной сети;
+\par г)
+\par служба приема и передачи файлов любого формата;
+\par д)
+\par }{\f365\expnd0\expndtw-2\kerning20 процесс создания, приема и передачи WEB- страниц.}{
+\par 
+\par 133.
+\par }{\f365 Электронная почта (e-mail) позволяет передавать:
+\par а)
+\par сообщения и приложенные файлы;
+\par б)
+\par исключительно текстовые сообщения;
+\par в) исполняемые программы;
+\par г)
+\par www-страницы;
+\par д)
+\par исключительно базы данных.
+\par }{
+\par 134.
+\par }{\f365 П}{\f365\expnd0\expndtw-2\kerning20 очтовый ящик абонента электронной почты представляе}{\f365 т собой:
+\par а)
+\par обычный почтовый ящик;
+\par б)
+\par некоторую область оперативной памяти файл- сервера;
+\par в)
+\par часть памяти на жестком диске почтового сервера, отведенную для пользователя;
+\par г)
+\par часть памяти на жестком диске рабочей станции;
+\par д)
+\par специальное электронное устройство для хранения текстовых файлов.
+\par }{135.
+\par }{\f365 Отличительной чертой Web-документа является:
+\par а)
+\par отсутствие строго определенного формата представления документа;
+\par б)
+\par то, что его тиражирование осуществляется составителем документа;
+\par в)
+\par наличие в нем гипертекстовых ссылок;
+\par г)
+\par наличие в нем иллюстраций;
+\par д)
+\par его компактность.
+\par }{
+\par 136.
+\par }{\f365 WEB \emdash  страницы имеют расширение:
+\par а)
+\par }{*.HTM;
+\par }{\f365 б)
+\par }{*.THT;
+\par }{\f365 в)
+\par }{*.WEB;
+\par }{\f365 г)
+\par }{*.EXE;
+\par }{\f365 д)
+\par }{*. WWW.
+\par 
+\par 137.
+\par }{\f365 HTML (HYPER TEXT MARKUP LANGUAGE) является
+\par а)
+\par средством создания WEB- страниц;
+\par б)
+\par системой программирования;
+\par в)
+\par графическим редактором;
+\par г)
+\par системой управления базами данных;
+\par д)
+\par экспертной системой.
+\par }{
+\par 138.
+\par }{\f365 Служба FTP в Интернете предназначена:
+\par а)
+\par для создания, приема и передачи WEB- страниц;
+\par б)
+\par для обеспечения функционирования электронной почты;
+\par в)
+\par для обеспечения работы телеконференций;
+\par г)
+\par для приема и передачи файлов любого формата;
+\par д)
+\par для удаленного управления техническими системами.
+\par }{
+\par 139.
+\par }{\f365 П}{\f365\expnd0\expndtw4\kerning20 од угрозой удаленного администрирования в компьютерной}{\f365  сети понимается:
+\par а)
+\par угроза несанкционированного управления удаленным компьютером;
+\par б)
+\par у}{\f365\expnd0\expndtw2\kerning20 гроза внедрения агрессивного программного кода}{\f365  в рамках активных объектов Web-страниц;
+\par в)
+\par угроза перехвата или подмены данных на путях транспортировки;
+\par г)
+\par угроза вмешательства в личную жизнь;
+\par д)
+\par угроза поставки неприемлемого содержания.
+\par }{
+\par 140.
+\par }{\f365 Электронная почта (e-mail) позволяет передавать:
+\par а)
+\par ообщения и приложенные файлы;
+\par б)
+\par исключительно текстовые сообщения;
+\par в)
+\par исполняемые программы;
+\par г)
+\par www-страницы;
+\par д)
+\par исключительно базы данных
+\par }{
+\par 141.
+\par }{\f365 Модем обеспечивает:
+\par а)
+\par преобразование двоичного кода в аналоговый сигнал и обратно; 
+\par б)
+\par исключительно преобразование двоичного кода в аналоговый сигнал;
+\par в)
+\par и}{\f365\expnd0\expndtw-2\kerning20 сключительно преобразование аналогового сигнала }{\f365 в двоичный код; 
+\par г)
+\par усиление аналогового сигнала;
+\par д)
+\par ослабление аналогового сигнала.
+\par }{
+\par 142.
+\par }{\f365 Какой из перечисленных способов подключения к Интернет обеспечивает наибольшие возможности для доступа к информационным ресурсам:
+\par а)
+\par постоянное соединение по оптоволоконному каналу;
+\par б)
+\par удаленный доступ по телефонным каналам;
+\par в)
+\par постоянное соединение по выделенному каналу;
+\par г)
+\par терминальное соединение по коммутируемому телефонному каналу.
+\par }{
+\par 143.
+\par }{\f365 Модем, передающий информацию со скоростью 28800 бит/с, может передать 2 страницы текста (3600 байт) в течение:
+\par }{
+\par }{\f365 а)
+\par 1 часа;
+\par б)
+\par 1 минуты;
+\par в)
+\par 1 секунды;
+\par г)
+\par суток.
+\par }{
+\par 144.
+\par }{\f365 Компьютер, предоставляющий свои ресурсы другим компьютерам при совместной работе, называется:
+\par а)
+\par адаптером;
+\par б)
+\par коммутатором;
+\par в)
+\par станцией;
+\par г)
+\par сервером;
+\par д)
+\par колиент-сервером.
+\par }{
+\par 145.
+\par }{\f365 Сетевой протокол \emdash  это:
+\par а)
+\par набор соглашений о взаимодействиях в компьютерной сети;
+\par б)
+\par последовательная запись событий, происходящих в компьютерной сети;
+\par в)
+\par правила интерпретации передаваемых по сети данных;
+\par г)
+\par п}{\f365\expnd0\expndtw-4\kerning20 равила установления связи между двумя компьютерами}{\f365  в сети.
+\par }{
+\par 146.
+\par }{\f365 WEB \emdash  страницы имеют расширение:
+\par а)
+\par }{*.WEB;
+\par }{\f365 б)
+\par }{*.THT;
+\par }{\f365 в)
+\par }{*.HTM;
+\par }{\f365 г)
+\par }{*.EXE.
+\par 
+\par 147.
+\par }{\f365 Компьютер, подключенный к Интернет, обязательно имеет:
+\par а)
+\par WEB- страницу;
+\par б)
+\par IP- адрес;
+\par в)
+\par домашнюю WEB- страницу;
+\par г)
+\par доменное имя.
+\par }{
+\par 148.
+\par }{\f365 HTML (HYPER TEXT MARKUP LANGUAGE) является
+\par а)
+\par средством создания WEB- страниц;
+\par б)
+\par системой программирования;
+\par в)
+\par графическим редактором;
+\par г)
+\par системой управления базами данных. 
+\par }{
+\par 149.
+\par }{\f365 Какой домен верхнего уровня в Internet имеет Россия:
+\par а)
+\par }{ra;
+\par }{\f365 б)
+\par }{su;
+\par }{\f365 в)
+\par }{us;
+\par }{\f365 г}{)
+\par ru.
+\par 
+\par 150.
+\par }{\f365 Протокол маршрутизации (IP) обеспечивает:
+\par а)
+\par доставку информации от компьютера-отправителя к компьютеру- получателю;
+\par б)
+\par интерпретацию данных и подготовку их для пользовательского уровня;
+\par в)
+\par }{\f365\expnd0\expndtw-4\kerning20 сохранение механических, функциональных параметров физической связи в компьютерной сети.}{
+\par 
+\par 151.
+\par }{\f365 Транспортный протокол (TCP) обеспечивает:
+\par а)
+\par разбиение файлов на IP- пакеты в процессе передачи и сборку файлов в процессе получения;
+\par б)
+\par прием, передачу и выдачу одного сеанса связи;
+\par в)
+\par предоставление в распоряжение пользователя уже переработанную информацию.
+\par }{
+\par 152.
+\par }{\f365\expnd0\expndtw2\kerning20 Комплекс аппаратных и программных средств, позволяющих компьютерам обмениваться данными, \emdash  это:}{
+\par }{\f365 а)
+\par интерфейс;
+\par б)
+\par магистраль;
+\par в)
+\par компьютерная сеть;
+\par г)
+\par адаптеры.
+\par }}

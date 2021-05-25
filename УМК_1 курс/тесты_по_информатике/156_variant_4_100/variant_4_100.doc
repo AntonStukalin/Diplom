@@ -1,0 +1,1235 @@
+{\rtf1\ansi\ansicpg1251\uc1 \deff0\deflang1033\deflangfe1049{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}{\f5\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica;}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier;}{\f7\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Geneva;}{\f8\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Tms Rmn;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helv;}{\f10\froman\fcharset0\fprq2{\*\panose 00000000000000000000}MS Serif;}{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f12\froman\fcharset0\fprq2{\*\panose 00000000000000000000}New York;}{\f13\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f16\froman\fcharset0\fprq2{\*\panose 00000000000000000000}CaflischScript Regular;}{\f17\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}SchoolBookC;}{\f18\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}PragmaticaC;}{\f19\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}CourierC;}{\f20\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f21\froman\fcharset204\fprq2{\*\panose 00000000000000000000}Times New Roman Baltic;}{\f22\froman\fcharset0\fprq2{\*\panose 00000000000000000000}AGaramond;}{\f23\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}{\f24\fswiss\fcharset0\fprq2{\*\panose 020b0402020202020204}AvantGarde Bk BT;}{\f25\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_375 RG;}{\f26\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM;}{\f27\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AcademyC;}{\f28\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AdverGothicC;}{\f29\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AdverGothicCamC;}{\f30\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}AvantGardeC;}{\f31\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Charlemagne;}{\f32\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}CompactC;}{\f33\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Cottonwood;}{\f34\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Critter;}{\f35\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Dixieland;}{\f36\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}Electron;}{\f37\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}ExPonto Regular;}{\f38\froman\fcharset0\fprq2{\*\panose 00000000000000000000}FreeSet;}{\f39\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FreeSetBlackC;}{\f40\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FreeSetC;}{\f41\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturaEugeniaC;}{\f42\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisC;}{\f43\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisShadowC;}{\f44\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisVolumeC;}{\f45\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisXC;}{\f46\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisXCondC;}{\f47\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond BookCondensed;}{\f48\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond LightCondensed;}{\f49\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}GaramondC;}{\f50\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Modern;}{\f51\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}InformC;}{\f52\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}IzhitsaC;}{\f53\froman\fcharset0\fprq2{\*\panose 00000000000000000000}JakobXC;}{\f54\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}JournalC;}{\f55\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}JournalSansC;}{\f56\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}KabelC Book;}{\f57\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}KabelC Ultra;}{\f58\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Lithos Regular;}{\f59\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_275 LT;}{\f60\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_485 SB;}{\f61\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_585 BD;}{\f62\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MezzMM_725 BL;}{\f63\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Minion Condensed;}{\f64\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Minion Ornaments;}{\f65\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}MonoCondensedC;}{\f66\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Myriad Roman;}{\f67\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Myriad Tilt;}{\f68\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}NewtonC;}{\f69\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}NewtonXC;}{\f70\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Nueva BoldExtended;}{\f71\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Nueva Roman;}{\f72\froman\fcharset0\fprq2{\*\panose 00000000000000000000}NuptialScript;}{\f73\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}ParsekC;}{\f74\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}PetersburgC;}{\f75\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Poetica ChanceryI;}{\f76\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}PragmaticaCondC;}{\f77\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}QuantAntiquaC;}{\f78\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Sanvito Light;}{\f79\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Sanvito Roman;}{\f80\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Roman;}{\f81\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Utopia;}{\f82\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}VAG Rounded Lt;}{\f83\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}VAG Rounded Th;}{\f84\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Viva BoldExtraExtended;}{\f85\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Viva Regular;}{\f86\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Willow;}{\f87\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}Woodtype Ornaments 1;}{\f88\fdecor\fcharset0\fprq2{\*\panose 00000000000000000000}FuturisXCameoC;}{\f89\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}{\f90\fswiss\fcharset0\fprq2{\*\panose 020b0504020203020204}News Gothic MT;}{\f91\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Lucida Handwriting;}{\f92\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Lucida Sans;}{\f93\fswiss\fcharset0\fprq2{\*\panose 020b0602030504020204}Lucida Sans Unicode;}{\f94\froman\fcharset0\fprq2{\*\panose 02040602050305030304}Book Antiqua;}{\f95\fswiss\fcharset0\fprq2{\*\panose 020b0502020202020204}Century Gothic;}{\f96\fmodern\fcharset0\fprq1{\*\panose 02010509020102010303}OCR A Extended;}{\f97\froman\fcharset0\fprq2{\*\panose 02040603050505030304}Calisto MT;}{\f98\fswiss\fcharset0\fprq2{\*\panose 020b0306030101010103}Abadi MT Condensed Light;}{\f99\fswiss\fcharset0\fprq2{\*\panose 020e0705020206020404}Copperplate Gothic Bold;}{\f100\fswiss\fcharset0\fprq2{\*\panose 020e0507020206020404}Copperplate Gothic Light;}{\f101\fdecor\fcharset0\fprq2{\*\panose 04040403030d02020704}Matisse ITC;}{\f102\fdecor\fcharset0\fprq2{\*\panose 04020404030d07020202}Tempus Sans ITC;}{\f103\fdecor\fcharset0\fprq2{\*\panose 04040506030f02020702}Westminster;}{\f104\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console;}{\f105\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f106\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}{\f107\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f108\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f109\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}{\f110\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Japanese Generic1;}{\f111\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MusicalSymbols;}{\f112\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Clocks;}{\f113\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}HomePlanning2;}{\f114\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Borders1;}{\f115\froman\fcharset2\fprq2{\*\panose 05050102010607020607}SymbolProp BT;}{\f116\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Tools;}{\f117\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Signs;}{\f118\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets 5(Korean);}{\f119\froman\fcharset2\fprq2{\*\panose 05020102010704020609}ZapfDingbats BT;}{\f120\fmodern\fcharset2\fprq1{\*\panose 020f0509020204020304}OCR-A BT;}{\f121\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Sports&Hobbies;}{\f122\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Shapes1;}{\f123\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Festive;}{\f124\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}HomePlanning;}{\f125\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}MilitaryID;}{\f126\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}CommonBullets;}{\f127\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Technology;}{\f128\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Balloons;}{\f129\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Sign Language;}{\f130\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Hygiene;}{\f131\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Animals 1;}{\f132\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Weather;}{\f133\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Kidnap;}{\f134\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Awards;}{\f135\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Space;}{\f136\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Arrows2;}{\f137\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Arrows1;}{\f138\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets3;}{\f139\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Medicine;}{\f140\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Computers;}{\f141\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Music;}{\f142\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}NauticalFlags;}{\f143\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets1;}{\f144\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Household;}{\f145\fmodern\fcharset2\fprq1{\*\panose 020b0609020202020204}OCR-B-10 BT;}{\f146\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Semaphore;}{\f147\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Stars2;}{\f148\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Charting;}{\f149\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets2;}{\f150\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Korean Generic1;}{\f151\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Furniture;}{\f152\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Shapes2;}{\f153\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Science;}{\f154\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Tracks;}{\f155\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}LandscapePlanning;}{\f156\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Bullets 4(Japanese);}{\f157\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Landmarks;}{\f158\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Transportation;}{\f159\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Food;}{\f160\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Animals 2;}{\f161\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Borders2;}{\f162\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Electronics;}{\f163\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Plants;}{\f164\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Stars1;}{\f165\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Buildings;}{\f166\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}OfficePlanning;}{\f167\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Business&Government;}{\f168\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}GeographicSymbols;}{\f169\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MorseCode;}{\f170\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}SportsFigures;}{\f171\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Chinese Generic1;}{\f172\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Boxes;}{\f173\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}People;}{\f174\fswiss\fcharset2\fprq2{\*\panose 020b0603050302020204}Military;}{\f175\froman\fcharset2\fprq2{\*\panose 05050102010205020202}MT Extra;}{\f176\fswiss\fcharset0\fprq2{\*\panose 020b0706040902060204}Haettenschweiler;}{\f177\fswiss\fcharset0\fprq2{\*\panose 020b0506020202030204}Arial Narrow;}{\f178\fswiss\fcharset0\fprq2{\*\panose 020f0704030504030204}Arial Rounded MT Bold;}{\f179\froman\fcharset0\fprq2{\*\panose 02040604050505020304}Century Schoolbook;}{\f180\fdecor\fcharset0\fprq2{\*\panose 04020705040a02060702}Algerian;}{\f181\fdecor\fcharset0\fprq2{\*\panose 04030b070d0b02020403}Braggadocio;}{\f182\fswiss\fcharset0\fprq2{\*\panose 020b0903060703020204}Britannic Bold;}{\f183\fscript\fcharset0\fprq2{\*\panose 03060802040406070304}Brush Script MT;}{\f184\fdecor\fcharset0\fprq2{\*\panose 04020805060202030203}Colonna MT;}{\f185\fdecor\fcharset0\fprq2{\*\panose 04020505020e03040504}Desdemona;}{\f186\froman\fcharset0\fprq2{\*\panose 0204060206030a020304}Footlight MT Light;}{\f187\fdecor\fcharset0\fprq2{\*\panose 040307050d0c02020703}Kino MT;}{\f188\froman\fcharset0\fprq2{\*\panose 020a0a07050505020404}Wide Latin;}{\f189\fscript\fcharset0\fprq2{\*\panose 03020802060602070202}Matura MT Script Capitals;}{\f190\fdecor\fcharset0\fprq2{\*\panose 040506030a0602020202}Playbill;}{\f191\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}AdverGothic;}{\f192\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Antiqua;}{\f193\fswiss\fcharset0\fprq2{\*\panose 020d0506020203030b03}Architecture;}{\f194\fswiss\fcharset0\fprq2{\*\panose 020b0602020202020204}AvantGarde Md BT;}{\f195\froman\fcharset0\fprq2{\*\panose 02030604050306020704}Benguiat Bk BT;}{\f196\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Bodoni;}{\f197\fdecor\fcharset0\fprq2{\*\panose 04040807060d02020704}Bremen Bd BT;}{\f198\fdecor\fcharset0\fprq2{\*\panose 04040905080b02020502}Broadway BT;}{\f199\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}BrushType;}{\f200\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Bruskovaya Compressed;}{\f201\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}Bruskovaya;}{\f202\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Bukvarnaya;}{\f203\fdecor\fcharset0\fprq2{\*\panose 04030405020b02020c04}Busorama Md BT;}{\f204\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}CasablancaAntique;}{\f205\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Caslon;}{\f206\fscript\fcharset0\fprq2{\*\panose 03030803040807090c04}CommercialScript BT;}{\f207\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Compact;}{\f208\fswiss\fcharset0\fprq2{\*\panose 020b0608030702060204}Compacta BT;}{\f209\fswiss\fcharset0\fprq2{\*\panose 020e0705020203020404}CopprplGoth Bd BT;}{\f210\froman\fcharset0\fprq2{\*\panose 0204050203030b020204}Dauphin;}{\f211\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Decor;}{\f212\fdecor\fcharset0\fprq2{\*\panose 04020a07050402060204}Decorated035 BT;}{\f213\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Encyclopaedia;}{\f214\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Fences;}{\f215\fswiss\fcharset0\fprq2{\*\panose 020b0706020204020204}Futura BdCn BT;}{\f216\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Futura Condensed;}{\f217\fswiss\fcharset0\fprq2{\*\panose 020b0903020204020204}Futura XBlk BT;}{\f218\fswiss\fcharset0\fprq2{\*\panose 020b0806020204020204}Futura XBlkCn BT;}{\f219\fswiss\fcharset0\fprq2{\*\panose 020b0806020204090204}Futura XBlkCnIt BT;}{\f220\fswiss\fcharset0\fprq2{\*\panose 020b0903020204090204}Futura XBlkIt BT;}{\f221\fswiss\fcharset0\fprq2{\*\panose 020b0702020204020204}Futura Hv BT;}{\f222\fswiss\fcharset0\fprq2{\*\panose 020b0402020204020303}Futura Lt BT;}{\f223\fswiss\fcharset0\fprq2{\*\panose 020b0408020204030204}Futura LtCn BT;}{\f224\fswiss\fcharset0\fprq2{\*\panose 020b0602020204020303}Futura Md BT;}{\f225\fswiss\fcharset0\fprq2{\*\panose 020b0506020204030203}Futura MdCn BT;}{\f226\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}FuturaLight;}{\f227\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}FuturaPress;}{\f228\froman\fcharset0\fprq2{\*\panose 0202060206050b020a04}Galliard BT;}{\f229\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Gazeta SansSerif;}{\f230\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Gazeta Titul;}{\f231\fswiss\fcharset0\fprq2{\*\panose 020d0402020204020903}Geometr231 BT;}{\f232\fswiss\fcharset0\fprq2{\*\panose 020d0802020204020204}Geometr231 Hv BT;}{\f233\fswiss\fcharset0\fprq2{\*\panose 020d0302020203020903}Geometr231 Lt BT;}{\f234\fdecor\fcharset0\fprq2{\*\panose 04020604050203030203}GoudyHandtooled BT;}{\f235\froman\fcharset0\fprq2{\*\panose 02020502050305020303}GoudyOlSt BT;}{\f236\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}GreekMathSymbols;}{\f237\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}GymnasiaCompressed;}{\f238\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Jikharev;}{\f239\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}Kladez;}{\f240\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Kudriashov;}{\f241\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Lazurski;}{\f242\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Arrows;}{\f243\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Bright Math Extension;}{\f244\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Bright Math Italic;}{\f245\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Bright Math Symbol;}{\f246\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Icons;}{\f247\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Lucida Stars;}{\f248\froman\fcharset0\fprq2{\*\panose 00050102010706020507}Map Symbols;}{\f249\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}MonoCondensed;}{\f250\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Mysl Narrow;}{\f251\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTCourierVK;}{\f252\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTHarmonica;}{\f253\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTHelvetica/Cyrillic;}{\f254\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}NTTimes/Cyrillic;}{\f255\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Olga;}{\f256\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Optima;}{\f257\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Parsek;}{\f258\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Pasma;}{\f259\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Peterburg;}{\f260\froman\fcharset0\fprq2{\*\panose 02070a02080905020204}PosterBodoni BT;}{\f261\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Pragmatica;}{\f262\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Quant Antiqua;}{\f263\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Respect;}{\f264\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Respect Narrow;}{\f265\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}SchoolBook;}{\f266\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}SchoolBook Quote;}{\f267\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}SchoolBookN;}{\f268\froman\fcharset0\fprq2{\*\panose 02080503040505020303}Souvenir Lt BT;}{\f269\fswiss\fcharset0\fprq2{\*\panose 020b0303020202020204}Swis721 Th BT;}{\f270\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Technical;}{\f271\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TextBook;}{\f272\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TimesET Quote;}{\f273\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}TimesET;}{\f274\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Torhok;}{\f275\fscript\fcharset0\fprq2{\*\panose 03020702030807050705}TypoUpright BT;}{\f276\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Bold;}{\f277\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Light;}{\f278\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Medium;}{\f279\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}Vanta Thin;}{\f280\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP Arabic Sihafa;}{\f281\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP ArabicScript Sihafa;}{\f282\fmodern\fcharset0\fprq1{\*\panose 010b0409020201010101}WP BoxDrawing;}{\f283\froman\fcharset2\fprq2{\*\panose 05020604050505020304}WP CyrillicA;}{\f284\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}WP CyrillicB;}{\f285\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP Greek Century;}{\f286\fmodern\fcharset2\fprq1{\*\panose 00000009000000000000}WP Greek Courier;}{\f287\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP Greek Helve;}{\f288\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}WP Hebrew David;}{\f289\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP IconicSymbolsA;}{\f290\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP IconicSymbolsB;}{\f291\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP Japanese;}{\f292\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathA;}{\f293\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathB;}{\f294\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathExtendedA;}{\f295\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP MathExtendedB;}{\f296\fmodern\fcharset2\fprq1{\*\panose 05000009000000000000}WP MultinationalA Courier;}{\f297\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalA Helve;}{\f298\froman\fcharset2\fprq2{\*\panose 02020604050505020304}WP MultinationalA Roman;}{\f299\fmodern\fcharset2\fprq1{\*\panose 02060409020205020404}WP MultinationalB Courier;}{\f300\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalB Helve;}{\f301\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}WP MultinationalB Roman;}{\f302\fswiss\fcharset2\fprq2{\*\panose 050b0604020202030204}WP Phonetic;}{\f303\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}WP TypographicSymbols;}{\f304\fswiss\fcharset0\fprq2{\*\panose 020b0706030502040204}Zurich Cn BT;}{\f305\fswiss\fcharset0\fprq2{\*\panose 020b0505020202020204}Zurich Ex BT;}{\f306\fswiss\fcharset0\fprq2{\*\panose 020b0508030702060204}Zurich XCn BT;}{\f307\fswiss\fcharset0\fprq2{\*\panose 020b0403020202030204}Zurich Lt BT;}{\f308\fswiss\fcharset0\fprq2{\*\panose 020b0406020202040204}Zurich LtCn BT;}{\f309\fswiss\fcharset0\fprq2{\*\panose 020b0907040502030204}Zurich UBlkEx BT;}{\f310\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}HelvDL;}{\f311\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}FuturisCameoC;}{\f312\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garudard MT;}{\f313\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}Adolescence;}{\f314\fswiss\fcharset0\fprq2{\*\panose 020b0803020204040204}AntigoniBd;}{\f315\fswiss\fcharset0\fprq2{\*\panose 020b0603020204030204}Antigoni;}{\f316\fswiss\fcharset0\fprq2{\*\panose 020e0806020206070204}MGI Archon;}{\f317\fswiss\fcharset0\fprq2{\*\panose 020d0602050304030204}AucoinLight;}{\f318\fswiss\fcharset0\fprq2{\*\panose 020b0804040403020303}Banjoman Open Bold;}{\f319\fswiss\fcharset0\fprq2{\*\panose 02020603080106020303}Bedini;}{\f320\froman\fcharset0\fprq2{\*\panose 02090400040001020404}Curlz MT;}{\f321\fswiss\fcharset0\fprq2{\*\panose 020b0900020202060204}Eurostar Black Extended;}{\f322\fswiss\fcharset0\fprq2{\*\panose 020e0602060706020304}Gourmand;}{\f323\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Mistral AV;}{\f324\froman\fcharset0\fprq2{\*\panose 01010502050101030304}Palladius;}{\f325\froman\fcharset0\fprq2{\*\panose 02040502050405020303}Georgia;}{\f326\fswiss\fcharset0\fprq2{\*\panose 020b0603020202020204}Trebuchet MS;}{\f327\fswiss\fcharset0\fprq2{\*\panose 020b0406020204020204}Antigoni Light;}{\f328\fswiss\fcharset0\fprq2{\*\panose 020b0703020204030204}Antigoni Med;}{\f329\fswiss\fcharset0\fprq2{\*\panose 020d0802060808030204}AucoinExtBol;}{\f330\fnil\fcharset0\fprq2{\*\panose 02000503000000000004}Bermuda Solid;}{\f331\fdecor\fcharset0\fprq2{\*\panose 04010502060101010303}Creepy;}{\f332\fswiss\fcharset0\fprq2{\*\panose 020c0804040000000001}EraserDust;}{\f333\fswiss\fcharset0\fprq2{\*\panose 020b0504020202050204}Eurostar;}{\f334\fswiss\fcharset0\fprq2{\*\panose 020b0507020202060204}Eurostar Regular Extended;}{\f335\fnil\fcharset0\fprq2{\*\panose 02000507000000000004}Falstaff Festival MT;}{\f336\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}Figaro MT;}{\f337\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}KidTYPEPaint;}{\f338\fswiss\fcharset0\fprq2{\*\panose 020b0704030103070804}Metro Nouveau;}{\f339\fnil\fcharset0\fprq2{\*\panose 02000504000000000003}Orbus Multiserif;}{\f340\fnil\fcharset0\fprq2{\*\panose 02000306050000000002}Palace Script MT Semi Bold;}{\f341\fswiss\fcharset0\fprq2{\*\panose 020e0702050806020304}Peinaud;}{\f342\fswiss\fcharset0\fprq2{\*\panose 020b0904020202020204}Plump MT;}{\f343\fswiss\fcharset0\fprq2{\*\panose 020e0302020206020904}Schindler;}{\f344\fswiss\fcharset0\fprq2{\*\panose 020e0402020206020904}Schindler Small Caps;}{\f345\fmodern\fcharset0\fprq1{\*\panose 02000509000000000005}Space Toaster;}{\f346\fnil\fcharset0\fprq2{\*\panose 02000800000000000004}Team MT;}{\f347\fnil\fcharset0\fprq2{\*\panose 02000702030000020004}Twentieth Century Poster1;}{\f348\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Wendy Medium;}{\f349\fscript\fcharset0\fprq2{\*\panose 03020602050506090804}Vianta;}{\f350\fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial Cyr;}{\f351\fmodern\fcharset204\fprq1{\*\panose 02070309020205020404}Courier New Cyr;}{\f352\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}labazsym;}{\f353\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MS Outlook;}{\f354\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}AGHelveticaCyr;}{\f355\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times NR Cyr MT;}{\f356\fnil\fcharset2\fprq2{\*\panose 01010601010101010101}Monotype Sorts;}{\f357\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}AvantGarde;}{\f358\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Bookman;}{\f359\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica-Narrow;}{\f360\froman\fcharset0\fprq2{\*\panose 00000000000000000000}NewCenturySchlbk;}{\f361\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Palatino;}{\f362\froman\fcharset0\fprq2{\*\panose 00000000000000000000}ZapfChancery;}{\f363\fdecor\fcharset2\fprq2{\*\panose 00000000000000000000}ZapfDingbats;}{\f364\froman\fcharset238\fprq2 Times New Roman CE;}{\f365\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f367\froman\fcharset161\fprq2 Times New Roman Greek;}{\f368\froman\fcharset162\fprq2 Times New Roman Tur;}{\f369\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f370\fswiss\fcharset238\fprq2 Arial CE;}{\f371\fswiss\fcharset204\fprq2 Arial Cyr;}{\f373\fswiss\fcharset161\fprq2 Arial Greek;}{\f374\fswiss\fcharset162\fprq2 Arial Tur;}{\f375\fswiss\fcharset186\fprq2 Arial Baltic;}{\f376\fmodern\fcharset238\fprq1 Courier New CE;}{\f377\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f379\fmodern\fcharset161\fprq1 Courier New Greek;}{\f380\fmodern\fcharset162\fprq1 Courier New Tur;}{\f381\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f454\fswiss\fcharset238\fprq2 Tahoma CE;}{\f455\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f457\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f458\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f459\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f484\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f485\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f487\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f488\froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f489\froman\fcharset186\fprq2 Bookman Old Style Baltic;}{\f502\froman\fcharset238\fprq2 Garamond CE;}{\f503\froman\fcharset204\fprq2 Garamond Cyr;}{\f505\froman\fcharset161\fprq2 Garamond Greek;}{\f506\froman\fcharset162\fprq2 Garamond Tur;}{\f507\froman\fcharset186\fprq2 Garamond Baltic;}{\f512\fswiss\fcharset162\fprq2 AvantGarde Bk BT Tur;}{\f922\fswiss\fcharset238\fprq2 Lucida Sans Unicode CE;}{\f923\fswiss\fcharset204\fprq2 Lucida Sans Unicode Cyr;}{\f925\fswiss\fcharset161\fprq2 Lucida Sans Unicode Greek;}{\f926\fswiss\fcharset162\fprq2 Lucida Sans Unicode Tur;}{\f988\fmodern\fcharset238\fprq1 Lucida Console CE;}{\f989\fmodern\fcharset204\fprq1 Lucida Console Cyr;}{\f991\fmodern\fcharset161\fprq1 Lucida Console Greek;}{\f992\fmodern\fcharset162\fprq1 Lucida Console Tur;}{\f994\fswiss\fcharset238\fprq2 Arial Black CE;}{\f995\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f997\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f998\fswiss\fcharset162\fprq2 Arial Black Tur;}{\f999\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f1000\fscript\fcharset238\fprq2 Comic Sans MS CE;}{\f1001\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f1003\fscript\fcharset161\fprq2 Comic Sans MS Greek;}{\f1004\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f1005\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}{\f1006\fswiss\fcharset238\fprq2 Impact CE;}{\f1007\fswiss\fcharset204\fprq2 Impact Cyr;}{\f1009\fswiss\fcharset161\fprq2 Impact Greek;}{\f1010\fswiss\fcharset162\fprq2 Impact Tur;}{\f1011\fswiss\fcharset186\fprq2 Impact Baltic;}{\f1012\fswiss\fcharset238\fprq2 Verdana CE;}{\f1013\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f1015\fswiss\fcharset161\fprq2 Verdana Greek;}{\f1016\fswiss\fcharset162\fprq2 Verdana Tur;}{\f1017\fswiss\fcharset186\fprq2 Verdana Baltic;}{\f1426\fswiss\fcharset238\fprq2 Arial Narrow CE;}{\f1427\fswiss\fcharset204\fprq2 Arial Narrow Cyr;}{\f1429\fswiss\fcharset161\fprq2 Arial Narrow Greek;}{\f1430\fswiss\fcharset162\fprq2 Arial Narrow Tur;}{\f1431\fswiss\fcharset186\fprq2 Arial Narrow Baltic;}{\f1516\fnil\fcharset238\fprq2 Antiqua CE;}{\f1520\fnil\fcharset162\fprq2 Antiqua Tur;}{\f1532\fswiss\fcharset162\fprq2 AvantGarde Md BT Tur;}{\f1538\froman\fcharset162\fprq2 Benguiat Bk BT Tur;}{\f1550\fdecor\fcharset162\fprq2 Bremen Bd BT Tur;}{\f1556\fdecor\fcharset162\fprq2 Broadway BT Tur;}{\f1604\fscript\fcharset162\fprq2 CommercialScript BT Tur;}{\f1606\fnil\fcharset238\fprq2 Compact CE;}{\f1610\fnil\fcharset162\fprq2 Compact Tur;}{\f1616\fswiss\fcharset162\fprq2 Compacta BT Tur;}{\f1622\fswiss\fcharset162\fprq2 CopprplGoth Bd BT Tur;}{\f1640\fdecor\fcharset162\fprq2 Decorated035 BT Tur;}{\f1658\fswiss\fcharset162\fprq2 Futura BdCn BT Tur;}{\f1670\fswiss\fcharset162\fprq2 Futura XBlk BT Tur;}{\f1676\fswiss\fcharset162\fprq2 Futura XBlkCn BT Tur;}{\f1682\fswiss\fcharset162\fprq2 Futura XBlkCnIt BT Tur;}{\f1688\fswiss\fcharset162\fprq2 Futura XBlkIt BT Tur;}{\f1694\fswiss\fcharset162\fprq2 Futura Hv BT Tur;}{\f1700\fswiss\fcharset162\fprq2 Futura Lt BT Tur;}{\f1706\fswiss\fcharset162\fprq2 Futura LtCn BT Tur;}{\f1712\fswiss\fcharset162\fprq2 Futura Md BT Tur;}{\f1718\fswiss\fcharset162\fprq2 Futura MdCn BT Tur;}{\f1736\froman\fcharset162\fprq2 Galliard BT Tur;}{\f1754\fswiss\fcharset162\fprq2 Geometr231 BT Tur;}{\f1760\fswiss\fcharset162\fprq2 Geometr231 Hv BT Tur;}{\f1766\fswiss\fcharset162\fprq2 Geometr231 Lt BT Tur;}{\f1772\fdecor\fcharset162\fprq2 GoudyHandtooled BT Tur;}{\f1778\froman\fcharset162\fprq2 GoudyOlSt BT Tur;}{\f1928\froman\fcharset162\fprq2 PosterBodoni BT Tur;}{\f1976\froman\fcharset162\fprq2 Souvenir Lt BT Tur;}{\f1982\fswiss\fcharset162\fprq2 Swis721 Th BT Tur;}{\f2018\fscript\fcharset162\fprq2 TypoUpright BT Tur;}{\f2192\fswiss\fcharset162\fprq2 Zurich Cn BT Tur;}{\f2198\fswiss\fcharset162\fprq2 Zurich Ex BT Tur;}{\f2204\fswiss\fcharset162\fprq2 Zurich XCn BT Tur;}{\f2210\fswiss\fcharset162\fprq2 Zurich Lt BT Tur;}{\f2216\fswiss\fcharset162\fprq2 Zurich LtCn BT Tur;}{\f2222\fswiss\fcharset162\fprq2 Zurich UBlkEx BT Tur;}{\f2248\fswiss\fcharset238\fprq2 AntigoniBd CE;}{\f2252\fswiss\fcharset162\fprq2 AntigoniBd Tur;}{\f2254\fswiss\fcharset238\fprq2 Antigoni CE;}{\f2258\fswiss\fcharset162\fprq2 Antigoni Tur;}{\f2260\fswiss\fcharset238\fprq2 MGI Archon CE;}{\f2264\fswiss\fcharset162\fprq2 MGI Archon Tur;}{\f2266\fswiss\fcharset238\fprq2 AucoinLight CE;}{\f2270\fswiss\fcharset162\fprq2 AucoinLight Tur;}{\f2278\fswiss\fcharset238\fprq2 Bedini CE;}{\f2282\fswiss\fcharset162\fprq2 Bedini Tur;}{\f2290\fswiss\fcharset238\fprq2 Eurostar Black Extended CE;}{\f2294\fswiss\fcharset162\fprq2 Eurostar Black Extended Tur;}{\f2296\fswiss\fcharset238\fprq2 Gourmand CE;}{\f2300\fswiss\fcharset162\fprq2 Gourmand Tur;}{\f2308\froman\fcharset238\fprq2 Palladius CE;}{\f2312\froman\fcharset162\fprq2 Palladius Tur;}{\f2320\fswiss\fcharset238\fprq2 Trebuchet MS CE;}{\f2324\fswiss\fcharset162\fprq2 Trebuchet MS Tur;}{\f2326\fswiss\fcharset238\fprq2 Antigoni Light CE;}{\f2330\fswiss\fcharset162\fprq2 Antigoni Light Tur;}{\f2332\fswiss\fcharset238\fprq2 Antigoni Med CE;}{\f2336\fswiss\fcharset162\fprq2 Antigoni Med Tur;}{\f2338\fswiss\fcharset238\fprq2 AucoinExtBol CE;}{\f2342\fswiss\fcharset162\fprq2 AucoinExtBol Tur;}{\f2350\fdecor\fcharset238\fprq2 Creepy CE;}{\f2354\fdecor\fcharset162\fprq2 Creepy Tur;}{\f2356\fswiss\fcharset238\fprq2 EraserDust CE;}{\f2360\fswiss\fcharset162\fprq2 EraserDust Tur;}{\f2362\fswiss\fcharset238\fprq2 Eurostar CE;}{\f2366\fswiss\fcharset162\fprq2 Eurostar Tur;}{\f2368\fswiss\fcharset238\fprq2 Eurostar Regular Extended CE;}{\f2372\fswiss\fcharset162\fprq2 Eurostar Regular Extended Tur;}{\f2392\fswiss\fcharset238\fprq2 Metro Nouveau CE;}{\f2396\fswiss\fcharset162\fprq2 Metro Nouveau Tur;}{\f2410\fswiss\fcharset238\fprq2 Peinaud CE;}{\f2414\fswiss\fcharset162\fprq2 Peinaud Tur;}{\f2422\fswiss\fcharset238\fprq2 Schindler CE;}{\f2426\fswiss\fcharset162\fprq2 Schindler Tur;}{\f2428\fswiss\fcharset238\fprq2 Schindler Small Caps CE;}{\f2432\fswiss\fcharset162\fprq2 Schindler Small Caps Tur;}{\f2544\fdecor\fcharset0\fprq2 ZapfDingbats;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\lang1049\cgrid \snext0 Обычный;}{\*\cs10 \additive Основной шрифт;}{\s15\fi454\sl233\slmult0\nowidctlpar\tx850\adjustright \fs20\lang1024 \snext15 Body Text;}{\s16\sb117\sa186\sl200\slmult0\nowidctlpar\adjustright \fs20\lang1049 \snext16 Header3 Left;}{\s17\ri4978\sa40\sl240\slmult0\keep\keepn\nowidctlpar\adjustright \fs20\lang1024 \snext17 Num1Bold;}{\s18\li454\sb40\sl233\slmult0\nowidctlpar\adjustright \fs20\lang1024 \snext18 body1;}{\s19\li454\sl240\slmult0\keep\keepn\nowidctlpar\adjustright \fs20\lang1024 \snext19 Num a);}{\s20\li680\sl240\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 \snext20 Num body a);}{\s21\sl120\slmult0\nowidctlpar\adjustright \fs20\lang1049 \snext21 ++++;}{\s22\li454\sl240\slmult0\keep\keepn\nowidctlpar\tx1361\tx2268\tx3175\tx4082\adjustright \fs20\lang1024 \snext22 Num a)_tab;}{\s23\sl60\slmult0\nowidctlpar\adjustright \fs20\lang1049 \snext23 3;}{\s24\sb40\sa40\sl233\slmult0\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360\tx10080\tx10800\tx11520\adjustright \fs20\lang1024 \snext24 Body_center;}}{\info{\title Вариант № 4 100 тестовых заданий}{\author Голубова Елена}{\operator Голубова Елена}{\creatim\yr2002\mo1\dy21\hr19\min39}{\revtim\yr2002\mo1\dy21\hr19\min39}{\version2}{\edmins0}{\nofpages25}{\nofwords4266}{\nofchars24318}{\*\company Лаборатория Базовых Знаний}{\nofcharsws29864}{\vern73}}\widowctrl\ftnbj\aenddoc\hyphcaps0\viewkind1\viewscale100 \fet0\sectd \linex0\headery709\footery709\colsx709\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang1049\cgrid {\f365\cgrid0 Вариант № 4 100 тестовых заданий
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Информация: свойства, способы восприятия и представления
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 1.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Информация по общественному значению подразделяется на:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 текстовую, числовую, графическую, музыкальную, комбинированную;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 визуальную, звуковую, тактильную, обонятельную, вкусовую;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 социальную, техническую, биологическую, генетическую;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 о}{\f365\expnd0\expndtw-2\lang1049\kerning20 быденную, общественно-политическую, эстетическую}{\f365\lang1049 , научную, техническую, производственную, управленческую;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 н}{\f365\expnd0\expndtw4\lang1049\kerning20 аучную, производственную, техническую, управленческу}{\f365\lang1049 ю.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 2.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В соответствии с федеральным законом РФ \ldblquote Об информации, информатизации и защите информации\rdblquote  (1995) информация \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 все то, что так или иначе может быть представлено в знаковой форме;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 та часть знаний, которая используется для ориентирования, активного действия, управления, то есть в целях сохранения, совершенствования, развития системы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сведения, обладающие новизной для их получателя;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сведения, фиксируемые в виде документов; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сведения о лицах, предметах, фактах, событиях, явлениях и процессах независимо от формы их представления.
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 3.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Информацию, с помощью которой можно решить те или иные задачи, называют:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 достоверной;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 актуальной;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 объективной;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 полезной;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 понятной.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 4.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Примером числовой информации может служить:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 разговор по телефону;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 иллюстрация в книге;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw2\lang1049\kerning20 таблица значений тригонометрических функций;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 симфония;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 поздравительная открытка.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 5.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Укажите \ldblquote лишний\rdblquote  объект:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 видеокамера;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 телевизор;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 видеомагнитофон;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 персональный компьютер; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 магнитофон.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 6.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Какое из высказываний ложно:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 получение и обработка информации является необходимым условием жизнедеятельности любого организма;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 для обмена информацией между людьми служат языки;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всякое представление информации о внешнем мире связано с построением некоторой модели;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 с точки зрения технического подхода обрабатываемая компьютерами информация должна носить осмысленный характер;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в основе любого процесса управления лежат информационные процессы.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 
+\par }\pard\plain \s16\sb117\sl200\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\f365\cf1 Информационные процессы
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 7.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В системе \ldblquote телевизионная вышка\endash телевизор\rdblquote  носителем информации является}{\lang1049 :
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 гравитационное поле;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 звуковые волны;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 электромагнитные волны;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 вакуум;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 концентрация молекул азота в воздухе. 
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 8.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В ходе информационного процесса, происходящего в рамках события: \ldblquote Турист, собираясь в поход и слушая по радио прогноз погоды, решает, что из одежды взять c собой\rdblquote :
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 физический носитель информации \emdash  давление, воспринимающий информацию орган \emdash  кожа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 физический носитель информации \emdash  концентрация молекул в растворе, воспринимающий информацию орган \emdash  вкусовые рецепторы слизистой оболочки рта, языка;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 физический носитель информации \emdash  концентрация }{\f365\expnd0\expndtw-2\lang1049\kerning20 молекул газа, воспринимающий информацию орган \emdash  обонятельные рецепторы слизистой }{\f365\lang1049 оболочки носа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 физический носитель информации \emdash  звуковые волны, воспринимающий информацию орган \emdash  слух;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 физический носитель информации \emdash  световые волны, воспринимающий информацию орган \emdash  зрение.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 9.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Какой из перечисленных ниже методов поиска информации наиболее полезен для получения учителем информации о конкретном ученике:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 чтение психолого-педагогической литературы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 просмотр видео- и телепрограмм по педагогической проблематике;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 п}{\f365\expnd0\expndtw4\lang1049\kerning20 рослушивание радиопередач, посвященных проблемам}{\f365\lang1049  воспитания детей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-2\lang1049\kerning20 работа с информационными системами, банками и базами данных педагогической информации;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 непосредственное наблюдение за учеником на уроках, в процессе внеклассной работы.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 10.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В качестве примера процесса передачи информации можно указать:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 отправку телеграммы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 проверку диктанта; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 поиск нужного слова в словаре.
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 запрос к базе данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 коллекционирование марок.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 11.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Аналоговый сигнал \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сигнал, который может принимать лишь конечное число значений в конечное число моментов времени;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сигнал, непрерывно изменяющийся по амплитуде и по времени;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сигнал, несущий текстовую информацию;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 любой процесс, несущий информацию;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 цифровой сигнал. 
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 12.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 К числу симплексных систем передачи информации относится:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 система телевещания;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 компьютерные сети;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 телеграф; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 телефонные сети; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 система почтовой связи.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 13.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Автоматизированная обработка информации:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в}{\f365\expnd0\expndtw-2\lang1049\kerning20 озможна без наличия строгих формальных правил }{\f365\lang1049 ее обработки;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 возможна только при наличии строгих формальных правил ее обработки;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 о}{\f365\expnd0\expndtw-2\lang1049\kerning20 существима только при условии семантической}{\f365\lang1049  значимости обрабатываемой информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 возможна только в том случае, если она представима в виде аналогового сигнала;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 невозможна в принципе.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 15.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Алгоритмом управления называется:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупность правил, в соответствии с которыми информация, поступающая в управляющее устройство, перерабатывается в сигналы управления;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 установление наилучшего в определенном смысле режима работы управляемого объекта;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 регулирование параметров управляемой системы вблизи некоторых неизменных заданных значений;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 поддержание как можно более точного соответствия некоторого управляемого параметра;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 произвольное воздействие на объект управления. 
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Информационная деятельность человека
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 16.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Состав и назначение функциональных средств автоматической вычислительной машины впервые определил:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Джон фон Нейман;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Чарльз Бэббидж;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Ада Лавлейс; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Алан Тьюринг; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Клод Шеннон.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 17.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Первая отечественная ЭВМ, разработанная под руководством академика С. А. Лебедева, называлась:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 БЭСМ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Стрела;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 МЭСМ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Урал;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Киев.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 18.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Элементной базой ЭВМ третьего поколения служили:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 электронные лампы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 полупроводниковые элементы; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 интегральные схемы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 большие интегральные схемы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сверхбольшие интегральные схемы.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 19.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Согласно взглядам ряда ученых (О. Тофлер, Белл, Масуда и др.) в \ldblquote информационном обществе\rdblquote :
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-4\lang1049\kerning20 большинство работающих будет занято производством, хранением и переработкой информации, знаний; будут решены проблемы информационного и экологического кризиса, реализованы гуманистические принципы управления социумами;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 человек станет послушным объектом манипуляции со стороны средств массовой информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 власть будет принадлежать \ldblquote информационной элите\rdblquote , осуществляющей жестокую эксплуатацию остальной части населения и контроль частной жизни граждан;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 человек станет придатком сверхмощных компьютеров;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw4\lang1049\kerning20 управление общественным производством и }{\f365\expnd0\expndtw2\lang1049\kerning20 распределением материальных благ будет осуществляться на основе централизованного планирования.}{\lang1049 
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 20.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Информационная культура человека на современном этапе в основном определяется: 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупностью его умений программировать на языках высокого уровня;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 его знаниями основных понятий информатики;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупностью его навыков использования прикладного программного обеспечения для создания необходимых документов;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 уровнем понимания закономерностей информационных процессов в природе и обществе, качеством знаний основ компьютерной грамотности, с}{\f365\expnd0\expndtw-2\lang1049\kerning20 овокупностью технических навыков взаимодействия}{\f365\lang1049  с компьютером, способностью эффективно и своевременно использовать средства информационных и коммуникационных технологий при решении задач практической деятельности;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw4\lang1049\kerning20 его знаниями основных видов программного обеспечения и пользовательских характеристик компьютера.}{\lang1049 
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Язык как способ представления информации
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 21.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Правила, согласно которым истолковываются (интерпретируются) предложения языка, называются:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)}{\lang1049 
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 письменностью;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 синтаксисом;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 грамматикой;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 прагматикой;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 семантикой.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 22.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Пусть алфавит языка состоит из цифр от 0 до 9, знака  и знаков арифметических операций \ldblquote +\rdblquote , \ldblquote *\rdblquote , а правило записи слов (арифметических выражений) звучит так: пишутся два числа, разделенные знаком, затем знак операции. Чему будет равно значение выражения 52*2+5*:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 5;\tab б) 8;\tab в) 60;\tab г) 12;\tab д) 6.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 23.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 К числу формальных языков относятся:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 естественные языки;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 арго;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 азбука Морзе; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сленг; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 языки программирования.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 24.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В алфавите DELTA всего 8 букв, а каждое слово языка может состоять не более чем из 2 букв. Какое максимальное число слов возможно в этом языке:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 125;\tab б) 96;\tab в) 81;\tab г) 64;\tab д) 16.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {\tab 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 25.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Сколько различных символов можно закодировать с помощью двоичных слов, состоящих из восьми символов:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 128;\tab б) 64;\tab в) 256;\tab г) 32;\tab д) 16.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {\tab 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 26.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Качество воспроизведения закодированного звука зависит:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 от диапазона напряжения, в котором функционирует АЦП;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в основном от частоты дискретизации и ее разрешения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 от избыточности кодируемой звуковой информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 от методов упаковки звуковой информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 от методов распаковки звуковой информации.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 27.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Двоичный код изображения, выводимого на экран дисплея ПК, хранится:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в ОЗУ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в ПЗУ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 на жестком диске; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в видеопамяти; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в видеопикселе.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 28.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Для кодирования 16 цветного изображения на один видеопиксель требуется бит:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 1;\tab б) 2;\tab в) 4;\tab г) 8;\tab д) 16. 
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 
+\par 
+\par }\pard\plain \s16\sb117\sl200\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\f365\cf1 Системы счисления
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 29.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 К достоинствам двоичной системы счисления относят:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 простоту совершаемых операций и возможность автоматической обработки информации с использованием только двух состояний элементов компьютера;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 широкое использование названной системы в обыденной жизни;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 наглядность и понятность записи числа в двоичной системе счисления;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 экономию памяти компьютера;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 возможность экономии электроэнергии.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 30.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Число (10)}{\lang1049\sub 16}{\f365\lang1049  (в шестнадцатиричной системе счисления) в десятичной системе счисления имеет вид:
+\par }\pard\plain \s22\li454\sl240\slmult0\keep\keepn\nowidctlpar\tx1474\tx2268\tx3175\tx3969\hyphpar0\adjustright \fs20\lang1024 {\f365\cf1 а) 1010;\tab б) 16;\tab в) 101;\tab г) 12;\tab д) СD.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {\tab 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 31.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Количество нулей в двоичной записи десятичного числа 1+2+8+32+64+256+512+1024 равно:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 10;\tab б) 3;\tab в) 8;\tab г) 4;\tab д) 0.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {\tab 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 32.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Количество информации в сообщении о том, что на светофоре горит красный свет равно:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 0;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 1биту;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 2 битам;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 1 байту;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 более чем 1 биту.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 33.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В теории кодирования и передачи сообщений под количеством информации в сообщении понимают:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 к}{\f365\expnd0\expndtw-2\lang1049\kerning20 оличество кодируемых, передаваемых или хранимых }{\f365\lang1049 символов сообщения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 вероятность совершения события, о котором информирует сообщение;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-4\lang1049\kerning20 числовую характеристику сигнала, не зависящую от его формы и содержания и характеризующую неопределенность, исчезающую после восприятия данного сигнала;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 с}{\f365\expnd0\expndtw2\lang1049\kerning20 реднее значение количества информации, вычисляемое по формуле: H=\endash p}{\expnd0\expndtw2\lang1049\sub\kerning20 ilog2pi (i=1...m)}{\f365\lang1049  (где p}{\lang1049\sub i}{\f365\lang1049  \emdash  вероятность выбора i-ой буквы из алфавита, содержащего m букв)}{\lang1049 ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 уменьшение энтропии после получения сообщения.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 34.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В корзине лежат 32 разноцветных шара. Сколько бит информации содержит сообщение о том, что из корзины вытащили красный шар:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 0;\tab б) 16;\tab в) 32;\tab г) 5;\tab д) 4.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Информационное моделирование
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 35.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Материальные модели отличаются от идеальных:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 большим соответствием изучаемому объекту;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 существованием вне человеческого сознания;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 правдоподобностью; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 красотой; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 актуальностью.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 36.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Изучение того или иного объекта, процесса, явления:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всегда производится с использованием множества различных моделей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всегда осуществляется с применением исключительно одной модели;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 не производится с помощью только одной модели;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 может осуществляться на основе анализа нескольких различных моделей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 невозможно без глубокого анализа нескольких различных моделей.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 37.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Математическая модель объекта, явления, процесса \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 последовательность предложений на формализованном диалекте естественного языка, содержащих описание объекта;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 описание структуры изучаемого объекта в терминах \ldblquote элемент\endash свойство\endash отношение\rdblquote ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупность баз и банков данных, содержащих информацию о числовых характеристиках объекта, явления, процесса;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 последовательность знаков, слов, предложений формального языка над конечным алфавитом, выстраивающаяся в соответствии с теми или иными методами математики;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 разновидность модели, представляемой с помощью электрических сигналов. 
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 38.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Информационные модели \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупность физических моделей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 класс}{\f365\expnd0\expndtw-2\lang1049\kerning20  знаковых моделей (основанных на формальных языках над конечными алфавитами), конструируемы}{\f365\lang1049 х с использованием математических методов;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 к}{\f365\expnd0\expndtw-2\lang1049\kerning20 ласс моделей, использующих для описания объектов}{\f365\lang1049 , явлений, процессов предложения на естественном языке;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 группа аналоговых моделей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 класс знаковых моделей, описывающих информационные процессы (возникновение, передачу, преобразование использование информации) в системах разнообразной природы.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 39.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Какое из указанных действий не осуществляется в процессе постановки задачи:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 определение конечных целей решения}{\b\lang1049  }{\f365\lang1049 задачи;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 формулировка условия задачи;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 анализ существующих аналогов задачи;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 выбор формы записи алгоритма;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 вычленение исходных данных.
+\par }\pard\plain \s23\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 40.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Укажите ложное утверждение:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-4\lang1049\kerning20 \ldblquote Строгих правил построения любой модели сформулировать}{\f365\lang1049  невозможно\rdblquote ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)}{\lang1049 
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 \ldblquote Никакая модель не может заменить само явление, но при решении конкретной задачи она может оказаться очень полезным инструментом\rdblquote ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 \ldblquote Совершенно неважно, какие объекты выбираются в качестве моделирующих \emdash  главное, чтобы с их помощью можно было бы отразить наиболее существенные черты, признаки изучаемого объекта\rdblquote ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-2\lang1049\kerning20 \ldblquote Модель содержит столько же информации, сколько}{\f365\lang1049  и моделируемый объект\rdblquote ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 \ldblquote Все образование \emdash  это изучение тех или иных моделей, а также приемов их использования\rdblquote .
+\par }\pard\plain \s23\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 41.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Компьютерная модель \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 связь между исходными данными и результатами;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 модель}{\f365\expnd0\expndtw-2\lang1049\kerning20  задачи, разработанная исходя из возможностей исполнителя, имитированного на компьютере;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 информационная модель;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-2\lang1049\kerning20 описание объекта средствами естественного языка;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 спецификация программы решаемой задачи.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Устройство персонального компьютера
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 42.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Для долговременного хранения информации служит:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 оперативная память;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 процессор;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 внешний носитель; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 дисковод;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 блок питания.
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 43.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Дисковод \emdash  это устройство для:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 обработки команд исполняемой программы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 вывода информации на бумагу;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 хранения команд исполняемой программы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 долговременного хранения информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 чтения/записи данных с внешнего носителя.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 44.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Манипулятор \ldblquote мышь\rdblquote  \emdash  это устройство:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 модуляции и демодуляции;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 считывания информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 долговременного хранения информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 ввода информации;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 для подключения принтера к компьютеру.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Программное обеспечение ПК
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 45.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Norton Commander представляет собой:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 операционную систему;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 программную оболочку MS-DOS;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 программную оболочку Windows;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 редактор спрайтов;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 интерпретатор языка программирования.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 46.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 По команде DIR в MS-DOS выводятся имена:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всех каталогов диска;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 файлов и подкаталогов из текущего каталога;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всех файлов из корневого каталога;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всех подкаталогов из корневого каталога;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всех подкаталогов из текущего каталога.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 47.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Командный файл в MS-DOS имеет расширение:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 doc;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 dbf;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 sys;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 exe;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 bat.
+\par 
+\par 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 48.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Непрерывным архивом называют:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупность нескольких файлов в одном архиве;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 архивный файл большого объема;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 архивный файл, содержащий файлы с одинаковыми расширениями;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 файл, заархивированный в нескольких архивных файлах;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 произвольный набор архивных файлов.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 49.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Архивный файл отличается от исходного тем, что:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 доступ к нему занимает меньше времени;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 он в большей степени удобен для редактирования;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 он легче защищается от вирусов;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 он легче защищается от несанкционированного доступа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 он занимает меньше места на диске.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 50.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Для архивации звуковых файлов используют:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 метод компадирования;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 метод Хафмана;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 алгоритм JPEG;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 RLE-кодирование;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 иной (не указанный) метод.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 51.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Файловый вирус:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 поражает загрузочные сектора дисков;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всегда изменяет код заражаемого файла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всегда меняет длину файла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всегда меняет начало файла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 всегда меняет начало и длину файла.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Алгоритмы и системы программирования
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 52.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Укажите наиболее полный перечень способов записи алгоритмов:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 псевдокод;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 словесный;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 графический, программный;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 словесный, программный;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 словесный, графический, псевдокод, программный.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 53.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Суть такого свойства алгоритма как }{\i\f365\lang1049 массовость}{\f365\lang1049  заключается в том, что:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 алгоритм должен иметь дискретную структуру (должен быть разбит на последовательность отдельных шагов);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 записывая алгоритм для конкретного исполнителя, можно использовать лишь те команды, что входят в систему его команд;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 алгоритм должен обеспечивать решение не одной конкретной задачи, а некоторого класса задач данного типа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw4\lang1049\kerning20 при точном исполнении всех команд алгоритма процесс должен прекратиться за конечное число шагов, приведя к определенному результату;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 исполнитель алгоритма не должен принимать решения, не предусмотренные составителем алгоритма.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 54.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Алгоритм называется линейным:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 если он составлен так, что его выполнение предполагает многократное повторение одних и тех же действий;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 если ход его выполнения зависит от истинности тех или иных условий;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 если его команды выполняются в порядке их естественного следования друг за другом независимо от каких-либо условий;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 если он представим в табличной форме;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 если он включает в себя вспомогательный алгоритм.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 55.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Подпрограммой называют:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 ч}{\f365\expnd0\expndtw-4\cf1\kerning20 асть программы, содержащую неоднократно выполняемы}{\f365\cf1 е команды;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\li680\sl236\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 независимый программный модуль;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 произвольный фрагмент программы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 набор операторов, следующих в программе за оператором GOSUB;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 часть программы, служащей для решения некоторой вспомогательной задачи.
+\par }\pard\plain \s23\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 56.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Отсутствие сообщений компьютера о синтаксических ошибках:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 есть необходимое и достаточное условие правильности программы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-2\cf1\kerning20 есть достаточное условие правильности программы;}{\cf1 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 есть необходимое, но не достаточное условие правильности программы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 не является необходимым условием правильности программы;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 гарантирует правильность программы.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Система LogoWriter
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 57.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Пусть дана процедура:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 ЭТО ЗАДАЧА :N
+\par \tab ПУСТЬ "K "простое ПУСТЬ "I 1
+\par \tab ЕСЛИ :N>2 [ПОВТОРИ :N\endash 2 
+\par \tab [ПУСТЬ "I :I+1 ПУСТЬ "T ОСТАТОК :N :I 
+\par \tab ЕСЛИ :T=0 [ПУСТЬ "K "cоставное]]] \line \tab ПОКАЖИ :K
+\par }\pard\plain \s18\li454\sb20\sl233\slmult0\nowidctlpar\adjustright \fs20\lang1024 {\f365\cf1 КОНЕЦ            .
+\par Укажите результат ее выполнения при обращении к ней командой ЗАДАЧА 14: 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\cf1 42;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\f365\cf1 простое;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\cf1 1, 2, 7, 14;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\li680\sl233\slmult0\nowidctlpar\tx1134\adjustright \fs20\lang1024 {\cf1 28;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 составное.
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 58.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Какую фигуру вычертит черепашка после исполнения процедуры:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 ЭТО ФИГУРА 
+\par }{\f365\expnd0\expndtw-2\lang1049\kerning20 \tab ИГ НМ [20 30] НОВХ 40 НМ [60 0] НОВX 0 }{\lang1049 
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 КОНЕЦ
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 квадрат;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 прямоугольник;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 трапецию;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 треугольник;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 три отрезка?
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 59.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Дана процедура:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 ЭТО ЗАДАЧА :X :S 
+\par \tab ПУСТЬ "L СКОЛЬКО :S ПОВТОРИ :L 
+\par \tab [ПУСТЬ "R ПРВ :S ЕСЛИИНАЧЕ :R=:X \line \tab [ПУСТЬ "S КПРВ :S]
+\par }{\lang1049 \tab }{\f365\expnd-1\expndtw-6\lang1049\kerning20 [ПУСТЬ "S КПРВ :S ПУСТЬ "S ВКСП :R :S]]\line }{\f365\lang1049 \tab ПОКАЖИ :S
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 КОНЕЦ
+\par В результате выполнения команды 
+\par }\pard\plain \s24\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 ЗАДАЧА 2 [2 5 7 2 8 5 6] 
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 будет получен ответ: 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 [7 8 6];
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 [2 7 8 6];
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 [2 8 6];
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 [2 5];
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 [5 7 8 5 6].
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 60.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Дана процедура решения некоторой задачи:
+\par ЭТО ЗАДАЧА :X :S
+\par \tab ПУСТЬ "L СКОЛЬКО :S
+\par \tab ПОВТОРИ :L [ПУСТЬ :R ПРВ :S
+\par \tab ЕСЛИИНАЧЕ :R>0
+\par }{\lang1049 \tab }{\f365\expnd0\expndtw-2\lang1049\kerning20 [ПУСТЬ "S КПРВ :S ПУСТЬ "S ВКСП 1 :S]}{\lang1049 
+\par }{\f365\expnd-1\expndtw-6\lang1049\kerning20 \tab [ПУСТЬ "S КПРВ :S ПУСТЬ "S ВКСП :R :S]]}{\lang1049 
+\par }{\f365\lang1049 \tab ПОКАЖИ :S
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 КОНЕЦ               . 
+\par Укажите условие этой задачи: 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 составьте процедуру подсчета положительных элементов списка S;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 с}{\f365\expnd0\expndtw-2\lang1049\kerning20 оставьте процедуру замены положительных элементов}{\f365\lang1049  списка S единицами;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 составьте процедуру удаления положительных элементов списка S;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 с}{\f365\expnd0\expndtw-2\lang1049\kerning20 оставьте процедуру замены положительных элементов }{\f365\lang1049 списка S нулями;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-2\lang1049\kerning20 составьте процедуру вычеркивания нулевых элементов с}{\f365\lang1049 писка S. 
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Язык программирования Basic
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 61.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Если X$=\ldblquote победа\rdblquote , K=2, P=4, то MID$(X$,K,P) равно:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а}{\lang1049 )
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 беда;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 еда;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 да;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 обед;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 бе.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {\tab 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 62.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 При исполнении программы:
+\par }{\lang1049 10 K=2: FOR K=1 TO 10: PRINT K: K=K+2: NEXT
+\par }{\f365\lang1049 на экран будут выведены числа:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 2, 5, 8, 11;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 1, 4, 7, 10;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 2, 5, 8;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 1, 3, 6, 9;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 1, 3, 6.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 63.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В каких программных строках при записи операторов условного перехода допущены ошибки:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 10 IF A=B THEN 20
+\par 20 IF AB THEN A1
+\par 30 IF A>B THEN X=X+A
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 40 IF A<B THEN A1 ELSE A2
+\par 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 10, 20;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 10, 30;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 20, 40;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 20;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 10, 20.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 64.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В операторе цикла в языке программирования Basic после служебного слова STEP указывается:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 начальное значение параметра цикла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 конечное значение параметра цикла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 логическое выражение, значение которого определяет величину приращения параметра цикла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 произвольное значение параметра цикла;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а}{\f365\expnd0\expndtw2\lang1049\kerning20 рифметическое выражение, значение которого определяет величину приращения параметра цикла.}{\lang1049 
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 65.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Какая последовательность двух символов используется при записи в языке программирования Basic функции, определяемой пользователем:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) FX;\tab б) DF;\tab в) FY;\tab г)}{\b\lang1049  }{\f365\lang1049 FN;\tab д) FU.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 66.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Результатом выполнения программы:
+\par }{\lang1049 10 INPUT N: P=1: FOR K=1 TO N: P=P*K: \line NEXT: ? P 
+\par }{\f365\lang1049 при N=5 будет:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 5;\tab б) 15;\tab в) 120;\tab г) 20;\tab д) 30.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 67.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Решением какой задачи будет следующая программа:
+\par }{\lang1049 10 INPUT X$: Y$="": FOR K=1 TO LEN(X$) \line STEP 2: Y$=Y$+MID$(X$,K,1): NEXT: ? Y$
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 составьте программу, вычеркивающую буквы слова X, стоящие на нечетных местах;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 с}{\f365\expnd0\expndtw-4\lang1049\kerning20 оставьте программу, удваивающую каждую букву}{\f365\lang1049  слова X;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 составьте программу, вычеркивающую буквы слова X, стоящие на четных местах;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 составьте программу, записывающую слово X в обратном порядке;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw4\lang1049\kerning20 составьте программу, утраивающую каждую букву}{\f365\lang1049  слова X.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Система программирования Turbo-Pascal
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 68.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Служебное слово LABEL в программе на языке Pascal фиксирует начало раздела программы, содержащего:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 список меток;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 описание сложных типов данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 перечень констант;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 описание переменных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 операторы.
+\par }\pard\plain \s23\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 69.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Чему равно значение выражения EXP(4*LN(5)):
+\par }\pard\plain \s22\li454\sl240\slmult0\keep\keepn\nowidctlpar\tx1361\tx2268\tx3175\tx4195\hyphpar0\adjustright \fs20\lang1024 {\f365\cf1 а) 625;\tab б) 20;\tab в) 25;\tab г) 1024;\tab д) 16.
+\par }\pard\plain \s23\sl60\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\fs6\cf1 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 70.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Имеется круглое отверстие радиуса R. При каком условии стержень длиной большей 2R c прямоугольными ребрами X, Y пройдет в это отверстие:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 X*X+Y*Y<=4*R*R;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 (X>2*R) AND (Y<=R);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 (X>2*R) AND (Y<R);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 (X>2*R) OR (Y>=2*R);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 (X<=R) AND (Y>2*R).
+\par }\pard\plain \s23\sl60\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\fs6\cf1 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 71.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Дана программа:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\b\lang1049 Program}{\lang1049  T71; Var a: array[1..8] of Integer; M, k: 
+\par Integer;
+\par }{\b\lang1049 Begin}{\lang1049  For k:=1 to 8 Do Readln(a[k]); M:=a[1];
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 For k:=2 to 8 Do If M<a[k] Then M:=A[k]; Write(M) }{\b\lang1049 End}{\lang1049 .
+\par }{\f365\lang1049 Сколько раз будет исполнен оператор M:=A[k] при заданном массиве: 3, 8, 7, 9, 4, 10, 2, 12:
+\par }\pard\plain \s22\li454\sl240\slmult0\keep\nowidctlpar\tx1361\tx2268\tx3175\tx4082\hyphpar0\adjustright \fs20\lang1024 {\f365\cf1 а) 8;\tab б) 4;\tab в) 7;\tab г) 1;\tab д) 3.
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 72.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Функция обработки признака конца файла F имеет вид:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 a)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 EOF(F);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 CLOSE(F);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 RESET(F);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 OPEN(F);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 REWRITE(F).
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 73.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Дана программа:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\b\lang1049 Program}{\lang1049  T72;
+\par Var a: array[1..4, 1..4] of Integer; 
+\par b: array[1..16] of Integer; g, k,q: Integer;
+\par }{\b\lang1049 Begin}{\lang1049 
+\par For k:=1 to 4 Do For g:=1 to 4 Do a[k,g]:=g\endash k;
+\par q:=0;
+\par For k:=1 to 4 Do For g:=1 to 4 Do 
+\par If a[k,g]<0 Then Begin q:=q+1; b[q]:= a[k,g] End;
+\par m:=b[1]; For k:=1 to q Do If m< b[k] Then m:=b[k]; 
+\par Writeln(m)
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\b\lang1049 End}{\lang1049 .
+\par }{\f365\lang1049 При ее выполнении на экран будет выведено число:
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) \endash 3;\tab б) \endash 1;\tab в) 0;\tab г) 3;\tab д) 2.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 74.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Результатом работы программы:
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\b\lang1049 Program}{\lang1049  T34;
+\par Var x: string[6];
+\par }{\b\lang1049 Begin}{\f365\lang1049  x:=\rquote мим\rquote +\rquote озадаченный\rquote ; Writeln(x)
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\b\lang1049 End}{\lang1049 .
+\par }{\f365\lang1049 будет слово:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 мимоза;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 мимозадаченный;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 мим озадаченный;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 озадаченный мим;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 озадаченный.
+\par }\pard\plain \s15\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 
+\par 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 75.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Запись \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 именованный набор с фиксированным количеством однотипных данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 совокупность разнородных данных, описываемых и обрабатываемых как единое целое;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 ограниченная апострофами последовательность любых символов;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd-1\expndtw-6\lang1049\kerning20 именованный набор однотипных данных на диске;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 произвольный файл.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Обработка текстов
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 76.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Текстовый редактор представляет собой программный продукт, входящий в состав:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 системного программного обеспечения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 систем программирования;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 прикладного программного обеспечения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 уникального программного обеспечения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 операционной системы.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 77.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 К числу основных преимуществ работы с текстом в текстовом редакторе (в сравнении с пишущей машинкой) следует назвать возможность:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 более быстрого набора текста;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 уменьшения трудоемкости при работе с текстом;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 многократного редактирования текста;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 использования различных шрифтов при наборе текста;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 уменьшения сложности при работе с текстом.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 78.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Набор текста при работе в текстовом редакторе осуществляется с помощью:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 клавиатуры;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 джойстика;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 модема;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 мыши;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 принтера.
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 79.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 К чему приведет однократное нажатие клавиш управления курсором: <вправо>, <вниз>, <влево>, <вверх> в указанном порядке:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 справа от исходной позиции;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 слева от исходной позиции;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 курсор окажется на исходной позиции;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сверху от исходной позиции;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 снизу от исходной позиции.
+\par }\pard\plain \s21\sl100\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\fs10\cf1 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 80.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Меню текстового редактора \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 подпрограмма, обеспечивающая управление ресурсами ПК при создании документа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 часть его интерфейса, обеспечивающая переход к выполнению различных операций над текстом;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 своеобразное \ldblquote окно\rdblquote , через которое текст просматривается на экране;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 информация о текущем состоянии текстового редактора;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 строка статуса.
+\par }\pard\plain \s21\sl100\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\f18\fs10\cf1 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 81.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Сколько слов будет найдено (выделено, указано) в про}{\f365\expnd0\expndtw-2\lang1049\kerning20 цессе автоматического поиска в тексте: }{\i\f365\expnd0\expndtw-2\lang1049\kerning20 \ldblquote Далеко за отмелью, в ельнике, раздалась птичья трель\rdblquote }{\f365\expnd0\expndtw-2\lang1049\kerning20 , если в качестве образца задать слово \ldblquote ель\rdblquote :}{\lang1049 
+\par }\pard\plain \s22\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а) 2;\tab б) 0;\tab в) 1;\tab г) 3;\tab д) 4.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Графический редактор
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 82.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Точечный элемент экрана дисплея называется:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 вектор;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 пиксель;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 точка;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 растр;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 зерно люминофора.
+\par }\pard\plain \s21\sl100\slmult0\nowidctlpar\hyphpar0\adjustright \fs20\lang1049 {\f18\fs10\cf1 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 83.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Сетку из горизонтальных и вертикальных столбцов, которую на экране образуют пиксели, называют:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 вектор;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 видеоадаптер;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 видеопамять;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 растр;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 дисплейный процессор.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 84.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Видеопамять \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 электронное, энергозависимое устройство для хранения двоичного кода изображения, выводимого на экран;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 программа, распределяющая ресурсы ПК при обработке изображения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 устройство, управляющее работой графического дисплея;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 часть оперативного запоминающего устройства;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 видеоадаптер.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 85.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Применение векторной графики по сравнению с растровой:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 увеличивает объем памяти, необходимой для хранения изображения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 не влияет на объем памяти, необходимой для хранения изображения, и на трудоемкость редактирования изображения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 не меняет способы кодирования изображения;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 усложняет редактирование рисунка;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сокращает объем памяти, необходимой для хранения изображения, и облегчает редактирование последнего.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Электронные таблицы
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 86.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Вычислительные формулы в ячейках электронной таблицы записываются:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в обычной математической записи;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 по правилам, принятым в языках логического программирования;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 специальным образом с использованием встроенных функций и по правилам, принятым для за}{\f365\expnd0\expndtw-2\lang1049\kerning20 писи выражений в императивных языках программирования}{\lang1049 ;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 по правилам, принятым исключительно для баз данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 произвольным образом.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 { 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 87.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Выражение 3(А1+В1):5(2В1\endash 3А2), записанное в соответствии с правилами, принятыми в математике, в электронной таблице имеет вид:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 3*(А1+В1)/5*(2*В1\endash 3*А2);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 3(А1+В1)/5(2В1\endash 3А2);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 3(А1+В1): 5(2В1\endash 3А2);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 3(А1+В1)/5(2В1\endash 3А2);
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 3*(А1+В1)/(5*(2*В1\endash 3*А2)).
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 88.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В ячейке H5 электронной таблицы записана формула =B5*V5. Какая формула будет получена из нее при копировании в ячейку H7:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =B7*V7;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =B5*V5;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =$B5*$V5;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =$B5*V5;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =B5*$V5.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 89.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В ячейке H5 электронной таблицы записана формула =$B$5*5. Какая формула будет получена из нее при копировании в ячейку H7:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =$B$5*5;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =$B$5*7;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =$B$7*7;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =B$5*7;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 =B$5*7$.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 90.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Линейчатая диаграмма \emdash  это диаграмма, в которой отдельные значения представлены:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в виде круга разбитого на секторы; 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 точками в декартовой системе координат;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 полосами различной длины, расположенными гори\endash зонтально вдоль оси Х;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в виде областей, закрашенных разными цветами;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 с использованием эффекта пространственного представления рядов данных.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Система управления базами данных
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 91.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Наиболее распространенными в практике являются:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 иерархические базы данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 сетевые базы данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 распределенные базы данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 реляционные базы данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 локальные базы данных.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 92.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Поля реляционной базы данных:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 автоматически нумеруются;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 именуются пользователем произвольно с определенными ограничениями;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-2\lang1049\kerning20 именуются по правилам, специфичным для каждой конкретной системы управления базами данных (СУБД);}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 нумеруются по правилам, верным для любой конкретной СУБД;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 нумеруются в соответствии с правилами, принятыми в той или иной СУБД.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 93.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В поле файла реляционной базы данных (БД) могут быть записаны:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 данные только одного типа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 как числовые, так и текстовые данные одновременно;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 только номера записей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 только время создания записей;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 только логические величины.
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 94.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Предположим, что некоторая база данных описывается следующим перечнем записей:
+\par }\pard\plain \s15\qj\fi454\sl233\slmult0\nowidctlpar\tx2835\adjustright \fs20\lang1024 {\f365\cf1 1 Иванов,\tab 1956, 2400;}{\f17\cf1 
+\par }{\f365\cf1 2 Сидоров,\tab 1957, 5300}{\cf1 ;}{\f17\cf1 
+\par }{\f365\cf1 3 Петров,\tab 1953, 3600;}{\f17\cf1 
+\par }\pard \s15\qj\fi454\sb40\sl233\slmult0\nowidctlpar\tx2835\adjustright {\f365\cf1 4 Козлов,\tab 1952, 1200;}{\f17\cf1 
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 В каком порядке будут располагаться эти записи после сортировки по возрастанию, если она будет осуществляться по второму полю:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 2, 3, 4, 1;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 2, 1, 3, 4;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 1, 2, 3, 4;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 2, 3, 1, 4;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 4, 3, 1, 2.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 95.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Экспертная система представляет собой:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 стратегию решения задач, позволяющую осуществлять манипулирование знаниями на уровне человека-эксперта в определенной предметной области;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 компьютерную программу, позволяющую в некоторой предметной области делать выводы, сопоставимые с выводами человека-эксперта;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 язык представления знаний;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 прикладную программу, созданную на основе системы управления базами данных;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 систему управления базами данных.
+\par }\pard\plain \s16\nowidctlpar\adjustright \fs20\lang1049 {\f365 Компьютерные сети 
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 96.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Сетевой протокол \emdash  это:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 последовательная запись событий, происходящих в компьютерной сети;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 правила интерпретации данных, передаваемых по сети;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 набор соглашений о взаимодействиях в компьютерной сети;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 п}{\f365\expnd0\expndtw-4\lang1049\kerning20 равила установления связи между двумя компьютерами}{\f365\lang1049  в сети;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 согласование различных процессов во времени.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 97.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Протокол маршрутизации (IP) обеспечивает:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 интерпретацию данных и подготовку их для пользовательского уровня;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw-4\lang1049\kerning20 сохранение механических, функциональных параметров физической связи в компьютерной сети;}{\lang1049 
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 управление аппаратурой передачи данных и каналов связи;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 доставку информации от компьютера-отправителя к компьютеру-получателю;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 разбиение файлов на IP- пакеты в процессе передачи и сборку файлов в процессе получения.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 98.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 Модем, передающий информацию со скоростью 28800 бит/с, может передать 2 страницы текста (3600 байт) в течение:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 недели;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 1 минуты;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 1 часа;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 суток;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 1 секунды.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 99.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 WEB \emdash  страницы имеют расширение:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 *.HTM;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 *.THT;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 *.WEB;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 *.EXE;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 *.WWW.
+\par }\pard\plain \s21\nowidctlpar\adjustright \fs20\lang1049 {
+\par }\pard\plain \s17\nowidctlpar\adjustright \fs20\lang1024 {\lang1049 100.
+\par }\pard\plain \s18\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 П}{\f365\expnd0\expndtw4\lang1049\kerning20 од угрозой удаленного администрирования в компьютерной}{\f365\lang1049  сети понимается:
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 а)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\expnd0\expndtw2\lang1049\kerning20 угроза внедрения агрессивного программного кода }{\f365\lang1049 в рамках активных объектов Web-страниц;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 б)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 угроза перехвата или подмены данных на путях транспортировки;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 в)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 угроза вмешательства в личную жизнь;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 г)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 угроза несанкционированного управления удаленным компьютером;
+\par }\pard\plain \s19\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 д)
+\par }\pard\plain \s20\nowidctlpar\adjustright \fs20\lang1024 {\f365\lang1049 угроза поставки информации неприемлемого содержания.
+\par }}
